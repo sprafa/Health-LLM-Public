@@ -1,21 +1,37 @@
 # Health-LLM — Project Index
 
 An Obsidian vault documenting the medical history of a patient. Designed to be read by both humans and LLM assistants to help with diagnosis of an unknown neurological disease.
+## Give this to your LLM 
+
+- [Exhaustive File Index](exhaustiveindex.md) — Every single file in the repository with descriptions. If you are giving this project to an LLM have it start here. 
+#### Readme 
+
+- [README.md](README.md) — Project description
+
+To start with try this command 
+
+*See this website - [https://sprafa.github.io/Health-LLM-Public/exhaustiveindex.html](https://sprafa.github.io/Health-LLM-Public/exhaustiveindex.html) can you see this and [https://sprafa.github.io/Health-LLM-Public/index.html](https://sprafa.github.io/Health-LLM-Public/index.html)this should be an exhaustive list of the infomation on this website and its webpages. id like you to read them all first please. divide it into sections. go section by section. Give me a full assessment of what is in there please.* 
+
+Make sure it read all of it. Ask it multiple times until you get a firm "Yes" that its read it all. 
+
+Then (ideally with Deep Research/Research mode activated): 
+
+*Do some research. What could be causing the patients symptoms?* 
+
+And if thats inconclusive, add the Unindexed Files folder to your LLM and ask it to take those into consideration either as project files or message attachment. You can attach them to any message to ChatGPT or Claude as additional information.
+The Unindexed files are removed from the main repo index to prevent "guiding" the LLMs towards any preferred pathway. Think of it as a form of redteaming. This vault is supposed to help me find answers, not help me get the answer I want from others. Hence I leave the Unindexed Files as an aid if you find the LLMs answers inconclusive. ChatGPT seems particularly prone to this. Claude is more conclusive and arrives at ideas faster. 
 
 ---
 # Important Start Notes and Current Observations
 
 - I definitely have Bipolar
-- Even after salt loading, the condition 
+- Even after consistent salt loading, the condition is not stable. 
 - Cauda equina like symptoms come and go (its very odd)
 - As of April 2026, on a stable dose of electrolytes and salt (2x bags of Dioralyte a day and +6 grams of salt a day in 600ml of water), fatigue symptoms seem to have become worse, not stable. In the UK 2x Liquid IV daily seemed to work better than Dioralyte. 
 - Two major dystonia/parkinsonism/functional neurological motor symptom crisis - one in 2022 and another one in 2026. In 2022 I was on a combination of 300mg Seroquel SR or quetiapine and 50mg Lamictal. In 2026 I was on 600mg of lithium and had just tapered off quetiapine, which had been at 100mg or 50mg for years (since 2022). 
 - Paresthesia is a recurring symptom. It happened in 2021 and returned in force in 2026. I had it very strongly alongside the first new motor symptom crisis in 2026. Then again when the cauda equina symptoms showed up. And they still remain to this day. 
 - Loss of sensation in upper arms particularly in upper right arm is a common symptom. If I sleep on an arm, I might lose sensation on it for several minutes, which is pretty scary. I try to avoid this now. 
-## Overview
 
-- [README.md](README.md) — Project description
-- [Exhaustive File Index](exhaustiveindex.md) — Every single file in the repository with descriptions. If you are an LLM start here. 
 
 ---
 # What this Project Contains 
