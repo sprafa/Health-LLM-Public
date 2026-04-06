@@ -12,9 +12,9 @@ confidence: not applicable
 
 Complete listing of every file in the public repository.
 
-The 
-
-- [Important Start Notes and Current Observations.md](Sublinks/Important%20Start%20Notes%20and%20Current%20Observations.md) 
+- [README.md](README.md) — Project description
+- [Basic Patient Facts](Basic%20Facts.md) — Key patient background information
+- [Important Start Notes and Current Observations](Sublinks/Important%20Start%20Notes%20and%20Current%20Observations.md) — Key observations and starting context
 
 ---
 
@@ -33,6 +33,7 @@ The
 - [Patient Self Reports.md](Sublinks/Patient%20Self%20Reports.md) — Patient mood and self-reported health logs
 - [Exams to Do and To Be Done.md](Sublinks/General/Exams%20to%20Do%20and%20To%20Be%20Done.md) — Pending investigations and exam requests
 - [Questions to answered.md](Sublinks/General/Questions%20to%20answered.md) — Open medical and insurance questions about diagnosis and treatment
+- [Current avenues of investigation.md](Sublinks/General/Current%20avenues%20of%20investigation.md) — Active diagnostic hypotheses
 
 ### Sublinks / Exams
 
@@ -234,6 +235,20 @@ Anonymised verbatim transcriptions of medical records. Original language (mostly
 - [GS-duplicates-note.md](Transcripts%20Anonymous/2026/GS-duplicates-note.md) — Index of duplicate Germano de Sousa lab files
 - [data-files-index.md](Transcripts%20Anonymous/2026/Data/data-files-index.md) — Index of raw device/data files (mood, sleep, lab CSVs)
 - [untitled-folders-note.md](Transcripts%20Anonymous/2026/Data/untitled-folders-note.md) — Note on duplicate imaging screenshots
+
+### Transcripts by Year
+
+Compiled summaries of all transcripts grouped by year.
+
+- [2018](Transcripts%20Anonymous/Transcripts%20by%20Year/transcripts-2018.md)
+- [2019](Transcripts%20Anonymous/Transcripts%20by%20Year/transcripts-2019.md)
+- [2020](Transcripts%20Anonymous/Transcripts%20by%20Year/transcripts-2020.md)
+- [2021](Transcripts%20Anonymous/Transcripts%20by%20Year/transcripts-2021.md)
+- [2022](Transcripts%20Anonymous/Transcripts%20by%20Year/transcripts-2022.md)
+- [2023](Transcripts%20Anonymous/Transcripts%20by%20Year/transcripts-2023.md)
+- [2024](Transcripts%20Anonymous/Transcripts%20by%20Year/transcripts-2024.md)
+- [2025](Transcripts%20Anonymous/Transcripts%20by%20Year/transcripts-2025.md)
+- [2026](Transcripts%20Anonymous/Transcripts%20by%20Year/transcripts-2026-Apr6.md)
 
 ### Transcripts Anonymous — Index
 
