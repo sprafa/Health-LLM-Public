@@ -2,11 +2,13 @@
 
 Complete listing of every file in the public repository.
 
+- [Important Start Notes and Current Observations.md](Sublinks/Important%20Start%20Notes%20and%20Current%20Observations.md) 
+
 ---
 
 ## Self Exams
 
-- [BP + HR Logs and Symptoms - Previous.md](Self%20Exams%20and%20Logs/BP%20HR/BP%20%2B%20HR%20Logs%20and%20Symptoms%20-%20Previous.md) — Blood pressure, heart rate measurements, and symptom logs from medical visits
+- [BP + HR Logs and Symptoms - Previous.md](Self%20Exams%20and%20Logs/BP%20HR/BP%20HR%20Logs%20and%20Symptoms%20-%20Previous.md) — Blood pressure, heart rate measurements, and symptom logs from medical visits
 
 ---
 
