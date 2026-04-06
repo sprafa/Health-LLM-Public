@@ -7,3 +7,9 @@ This is an Obsidian vault. You should run it under Obsidian so you can navigate 
 Thanks to Andrej Karpathy for the idea.
 
 Mostly executed with Anthropics Claude Code and Claude.
+
+[[index of anonymised transcripts of medical records]]
+
+[[index]]
+
+[[exhaustiveindex]]
