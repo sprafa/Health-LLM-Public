@@ -12,7 +12,7 @@ lab: Laboratório A
 location: Guimarães
 symptoms: Routine monitoring (requested by Psiquiatra B)
 ```
-- **Transcript:** [Resultados-GS-2024-06-14](Transcripts%20Anonymous/2024/06-June/Lab-Results/Resultados-GS-2024-06-14.md)
+- **Transcript:** [Resultados-GS-2024-06-14](../../Transcripts%20Anonymous/2024/06-June/Lab-Results/Resultados-GS-2024-06-14.md)
 - **Remarkable results:**
   - Lithium **0.56 mmol/l** (ref 0.60–1.20) — **subtherapeutic** (but best value since initiation)
   - Ionised calcium **4.64 mg/dl** (ref 4.64–5.28) — **at lower limit, borderline low**
@@ -32,7 +32,7 @@ lab: Laboratório A
 location: Guimarães
 symptoms: Routine monitoring
 ```
-- **Transcript:** [Resultados-GS-2024-08-30](Transcripts%20Anonymous/2024/09-September/Lab-Results/Resultados-GS-2024-08-30.md)
+- **Transcript:** [Resultados-GS-2024-08-30](../../Transcripts%20Anonymous/2024/09-September/Lab-Results/Resultados-GS-2024-08-30.md)
 - **Remarkable results:**
   - Lithium **0.51 mmol/l** (ref 0.60–1.20) — **subtherapeutic, declining** (from 0.56 in June)
   - FT4 **0.86 ng/dl** — low-normal, decreased from 1.01
@@ -53,7 +53,7 @@ lab: Laboratório A
 location: Guimarães
 symptoms: Diabetes screening (context: prior hyperglycaemia on quetiapine)
 ```
-- **Transcript:** [Resultados-GS-2024-12-04-hba1c](Transcripts%20Anonymous/2024/12-December/Lab-Results/Resultados-GS-2024-12-04-hba1c.md)
+- **Transcript:** [Resultados-GS-2024-12-04-hba1c](../../Transcripts%20Anonymous/2024/12-December/Lab-Results/Resultados-GS-2024-12-04-hba1c.md)
 - **Remarkable results:**
   - HbA1c **5.7%** (ref <5.7%) — **at upper boundary of normal**
   - Estimated average glucose: 117 mg/dl

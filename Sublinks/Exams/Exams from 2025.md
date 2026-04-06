@@ -12,7 +12,7 @@ lab: Laboratório A
 location: Guimarães
 symptoms: Routine monitoring; progressive fatigue emerging
 ```
-- **Transcript:** [Resultados-GS-2025-05-13](Transcripts%20Anonymous/2025/05-May/Lab-Results/Resultados-GS-2025-05-13.md)
+- **Transcript:** [Resultados-GS-2025-05-13](../../Transcripts%20Anonymous/2025/05-May/Lab-Results/Resultados-GS-2025-05-13.md)
 - **Remarkable results:**
   - Ionised calcium **4.49 mg/dl** (ref 4.64–5.28) — **BELOW range**
   - Lithium **0.29 mmol/l** (ref 0.60–1.20) — **significantly subtherapeutic** (dropped from 0.51)
@@ -32,7 +32,7 @@ lab: Laboratório A
 location: Guimarães (requested by Médica de Família A)
 symptoms: Investigation of low calcium (follow-up to May result)
 ```
-- **Transcript:** [Resultados-GS-2025-06-13-calcium-pth](Transcripts%20Anonymous/2025/06-June/Lab-Results/Resultados-GS-2025-06-13-calcium-pth.md)
+- **Transcript:** [Resultados-GS-2025-06-13-calcium-pth](../../Transcripts%20Anonymous/2025/06-June/Lab-Results/Resultados-GS-2025-06-13-calcium-pth.md)
 - **Remarkable results:**
   - All normal — Albumin 4.4, Total Calcium 9.7, Magnesium 2.0, PTH 28.8, Phosphate 2.8
 - **Context:** Rules out primary/secondary hyperparathyroidism; total calcium normal despite low ionised calcium in May
@@ -49,7 +49,7 @@ lab: Laboratório A
 location: Guimarães (requested by Médica de Família A)
 symptoms: Continued calcium/bone health monitoring; worsening fatigue
 ```
-- **Transcript:** [Resultados-GS-2025-09-16-calcium-vitd](Transcripts%20Anonymous/2025/09-September/Lab-Results/Resultados-GS-2025-09-16-calcium-vitd.md)
+- **Transcript:** [Resultados-GS-2025-09-16-calcium-vitd](../../Transcripts%20Anonymous/2025/09-September/Lab-Results/Resultados-GS-2025-09-16-calcium-vitd.md)
 - **Remarkable results:**
   - Vitamin D (25-OH) **24.00 ng/ml** (ref 10–30) — within range but **clinically insufficient** (optimal >30)
   - Total Calcium 9.0, Magnesium 2.0 — normal
@@ -67,7 +67,7 @@ lab: Laboratório A
 location: Guimarães
 symptoms: Severe fatigue; mineral depletion workup
 ```
-- **Transcript:** [Resultados-GS-2025-11-04](Transcripts%20Anonymous/2025/11-November/Lab-Results/Resultados-GS-2025-11-04.md)
+- **Transcript:** [Resultados-GS-2025-11-04](../../Transcripts%20Anonymous/2025/11-November/Lab-Results/Resultados-GS-2025-11-04.md)
 - **Remarkable results:**
   - **24h Urinary Iron 9.9 µg/24h** (ref 100–300) — **very low**
   - Ionised Calcium **4.54 mg/dl** (ref 4.64–5.28) — **BELOW range** (persistent)
@@ -86,7 +86,7 @@ date: 2025-11-04 (updated report 2026-02-16)
 lab: Laboratório A
 location: Guimarães
 ```
-- **Transcript:** [Resultados-GS-2025-11-04-updated-2026-02-16](Transcripts%20Anonymous/2025/11-November/Lab-Results/Resultados-GS-2025-11-04-updated-2026-02-16.md)
+- **Transcript:** [Resultados-GS-2025-11-04-updated-2026-02-16](../../Transcripts%20Anonymous/2025/11-November/Lab-Results/Resultados-GS-2025-11-04-updated-2026-02-16.md)
 - **Remarkable results:**
   - 24h Urinary Magnesium 185.4 mg/24h (ref 24–255) — within range but significant renal loss
   - **24h urine volume: 5600 ml** — severe polyuria (up from 3300 ml)

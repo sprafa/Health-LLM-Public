@@ -12,7 +12,7 @@ lab: Laboratório A
 location: Guimarães
 symptoms: Follow-up after Nov 2025 critical mineral depletion; salt supplementation started
 ```
-- **Transcript:** [Resultados-GS-2026-01-23](Transcripts%20Anonymous/2026/01-January/Lab-Results/Resultados-GS-2026-01-23.md)
+- **Transcript:** [Resultados-GS-2026-01-23](../../Transcripts%20Anonymous/2026/01-January/Lab-Results/Resultados-GS-2026-01-23.md)
 - **Remarkable results:**
   - Lithium **0.42 mmol/l** (still subtherapeutic but **improving** from 0.23)
   - Ionised calcium **4.72 mg/dl** — **normalised** (was 4.54)
@@ -31,7 +31,7 @@ date: 2026-02-03
 location: Porto (Psiquiatra B)
 symptoms: Pre-investigation workup for progressive fatigue and autonomic symptoms
 ```
-- **Transcript:** [Requisicao-Psiquiatra-B-2026-02-03](Transcripts%20Anonymous/2026/02-February/Prescriptions/Requisicao-Psiquiatra-B-2026-02-03.md)
+- **Transcript:** [Requisicao-Psiquiatra-B-2026-02-03](../../Transcripts%20Anonymous/2026/02-February/Prescriptions/Requisicao-Psiquiatra-B-2026-02-03.md)
 - **Tests requested:** TSH, FT4, Vitamin D, Magnesium, Ionised Calcium, Phosphate, B12, Folate, Urea, Creatinine, Electrolytes
 - **Context:** Psychiatrist initiating comprehensive metabolic workup before March specialist investigations
 
@@ -45,7 +45,7 @@ lab: Laboratório A
 location: Guimarães (requested by Médica de Família A)
 symptoms: Comprehensive recovery assessment
 ```
-- **Transcript:** [Resultados-GS-2026-02-18](Transcripts%20Anonymous/2026/02-February/Lab-Results/Resultados-GS-2026-02-18.md)
+- **Transcript:** [Resultados-GS-2026-02-18](../../Transcripts%20Anonymous/2026/02-February/Lab-Results/Resultados-GS-2026-02-18.md)
 - **Remarkable results:**
   - **All values normal** — complete recovery of previously abnormal markers
   - B12 291, Folate 8.2 — normal (rules out megaloblastic maturation)
@@ -66,7 +66,7 @@ lab: Laboratório A
 location: Guimarães
 symptoms: Routine monitoring
 ```
-- **Transcript:** [Resultados-GS-2026-02-24](Transcripts%20Anonymous/2026/02-February/Lab-Results/Resultados-GS-2026-02-24.md)
+- **Transcript:** [Resultados-GS-2026-02-24](../../Transcripts%20Anonymous/2026/02-February/Lab-Results/Resultados-GS-2026-02-24.md)
 - **Remarkable results:**
   - Lymphocytes **41.2%** (ref 20–40%) — slightly elevated (persistent pattern)
   - Platelets **147 x 10³/µl** (ref 150–400) — borderline low (persistent pattern)
@@ -85,7 +85,7 @@ date: 2026-03-04
 location: Remote (London cardiologist, patient in Porto)
 symptoms: Longstanding hypotension, fainting episodes, post-vaccine ME/CFS-like fatigue (since 2024), exercise intolerance
 ```
-- **Transcripts:** [Patient-Letter-Cardiologist-A-London-2026-03-04](Transcripts%20Anonymous/2026/03-March/Cardiology/Patient-Letter-Cardiologist-A-London-2026-03-04.md) | [Carta-Medica-Cardiologista-A-London-Traducao-PT-2026-03-04](Transcripts%20Anonymous/2026/03-March/Cardiology/Carta-Medica-Cardiologista-A-London-Traducao-PT-2026-03-04.md)
+- **Transcripts:** [Patient-Letter-Cardiologist-A-London-2026-03-04](../../Transcripts%20Anonymous/2026/03-March/Cardiology/Patient-Letter-Cardiologist-A-London-2026-03-04.md) | [Carta-Medica-Cardiologista-A-London-Traducao-PT-2026-03-04](../../Transcripts%20Anonymous/2026/03-March/Cardiology/Carta-Medica-Cardiologista-A-London-Traducao-PT-2026-03-04.md)
 - **Key findings:**
   - History of post-vaccine neurological symptoms (2021) with elevated D-dimer
   - Brain imaging showed gliosis (stable lesion)
@@ -104,7 +104,7 @@ date: 2026-03-05
 location: Hospital A (Porto) — Endocrinologia
 symptoms: Progressive fatigue, polyuria, autonomic dysfunction
 ```
-- **Transcript:** [Pedido-Exames-Endocrinologista-A-2026-03-05](Transcripts%20Anonymous/2026/03-March/Endocrinology/Pedido-Exames-Endocrinologista-A-2026-03-05.md)
+- **Transcript:** [Pedido-Exames-Endocrinologista-A-2026-03-05](../../Transcripts%20Anonymous/2026/03-March/Endocrinology/Pedido-Exames-Endocrinologista-A-2026-03-05.md)
 - **Tests requested include:** ACTH, cortisol (basal + 24h urine), FSH, LH, prolactin, testosterone, IGF1, TSH, FT4, 24h metanephrines, aldosterone, plasma renin, CRP, ESR, zinc, B1, B6, calcium, phosphate, magnesium, PTH, vitamin D, creatinine kinase, and many more
 - **Context:** Most comprehensive endocrine workup to date; investigating adrenal, pituitary, RAAS axis
 
@@ -118,7 +118,7 @@ lab: Laboratório A
 location: Guimarães
 symptoms: Mast cell disease and autoimmune screening
 ```
-- **Transcript:** [Resultados-GS-2026-03-09-protein-tryptase-ANA](Transcripts%20Anonymous/2026/03-March/Lab-Results/Resultados-GS-2026-03-09-protein-tryptase-ANA.md)
+- **Transcript:** [Resultados-GS-2026-03-09-protein-tryptase-ANA](../../Transcripts%20Anonymous/2026/03-March/Lab-Results/Resultados-GS-2026-03-09-protein-tryptase-ANA.md)
 - **Remarkable results:**
   - Protein electrophoresis: all fractions normal — **no paraprotein**
   - Tryptase 4.70 µg/l (ref <11.40) — **normal, rules out mastocytosis/MCAS**
@@ -135,7 +135,7 @@ lab: Laboratório A
 location: Guimarães
 symptoms: Routine monitoring
 ```
-- **Transcript:** [Resultados-GS-2026-03-11-lithium](Transcripts%20Anonymous/2026/03-March/Lab-Results/Resultados-GS-2026-03-11-lithium.md)
+- **Transcript:** [Resultados-GS-2026-03-11-lithium](../../Transcripts%20Anonymous/2026/03-March/Lab-Results/Resultados-GS-2026-03-11-lithium.md)
 - **Remarkable results:**
   - Lithium **0.30 mmol/l** (ref 0.60–1.20) — **subtherapeutic, declined** from 0.42 (Jan)
 - **Context:** Continued renal lithium wasting despite supplementation
@@ -150,7 +150,7 @@ lab: Laboratório A
 location: Guimarães (from Endocrinologista A request)
 symptoms: Endocrine workup for fatigue, polyuria, autonomic dysfunction
 ```
-- **Transcript:** [Resultados-GS-2026-03-12-endocrine-panel](Transcripts%20Anonymous/2026/03-March/Lab-Results/Resultados-GS-2026-03-12-endocrine-panel.md)
+- **Transcript:** [Resultados-GS-2026-03-12-endocrine-panel](../../Transcripts%20Anonymous/2026/03-March/Lab-Results/Resultados-GS-2026-03-12-endocrine-panel.md)
 - **Remarkable results:**
   - Zinc **61.0 µg/dl** (ref 68–120) — **LOW**
   - Lithium **0.25 mmol/l** (ref 0.60–1.20) — **critically low** (lowest recorded)
@@ -169,7 +169,7 @@ date: 2026-03-13
 location: Hospital A (Porto) — Cardiologista B / Cardiologista C
 symptoms: Chronic fatigue, exercise intolerance, suspected autonomic dysfunction
 ```
-- **Transcript:** [Prova-de-Esforco-ECG-2026-03-13](Transcripts%20Anonymous/2026/03-March/Cardiology-Tests/Prova-de-Esforco-ECG-2026-03-13.md)
+- **Transcript:** [Prova-de-Esforco-ECG-2026-03-13](../../Transcripts%20Anonymous/2026/03-March/Cardiology-Tests/Prova-de-Esforco-ECG-2026-03-13.md)
 - **Remarkable results:**
   - Baseline: HR 76 bpm, BP 166/70 mmHg
   - Peak: HR **117 bpm (only 63% of predicted max)** — insufficient chronotropic response
@@ -189,7 +189,7 @@ lab: Hospital A (Porto) — Emergency Department
 location: Hospital A (Porto)
 symptoms: Acute cauda equina-like episode — perineal anaesthesia, leg weakness, lower back pain
 ```
-- **Transcript:** [Resultados-CUF-ER-2026-03-13](Transcripts%20Anonymous/2026/03-March/Lab-Results/Resultados-CUF-ER-2026-03-13.md)
+- **Transcript:** [Resultados-CUF-ER-2026-03-13](../../Transcripts%20Anonymous/2026/03-March/Lab-Results/Resultados-CUF-ER-2026-03-13.md)
 - **Remarkable results:**
   - Erythrocytes **4.44 x 10⁶/µl** (ref 4.50–5.50) — slightly low
   - Platelets **143 x 10³/µl** (ref 150–400) — borderline low
@@ -208,7 +208,7 @@ lab: Laboratório A
 location: Guimarães
 symptoms: Continued endocrine/immune workup
 ```
-- **Transcript:** [Resultados-GS-2026-03-16-cortisol-complement](Transcripts%20Anonymous/2026/03-March/Lab-Results/Resultados-GS-2026-03-16-cortisol-complement.md)
+- **Transcript:** [Resultados-GS-2026-03-16-cortisol-complement](../../Transcripts%20Anonymous/2026/03-March/Lab-Results/Resultados-GS-2026-03-16-cortisol-complement.md)
 - **Remarkable results:**
   - Lithium **0.56 mmol/l** — **significant improvement** (from 0.25); best level in months
   - **24h urine volume improved to 2620 ml** (down from 4350 ml) — polyuria improving
@@ -227,7 +227,7 @@ date: 2026-03-16
 location: Porto (Psiquiatra B)
 symptoms: Clarification for ER and investigating teams
 ```
-- **Transcript:** [Email-Psiquiatra-B-Clarificacao-2026-03-16](Transcripts%20Anonymous/2026/03-March/Psychiatry/Email-Psiquiatra-B-Clarificacao-2026-03-16.md)
+- **Transcript:** [Email-Psiquiatra-B-Clarificacao-2026-03-16](../../Transcripts%20Anonymous/2026/03-March/Psychiatry/Email-Psiquiatra-B-Clarificacao-2026-03-16.md)
 - **Key confirmations:**
   - Patient adherent to lithium throughout — low levels are **not non-compliance**
   - Therapeutic efficacy documented at <0.6 mmol/l in many patients
@@ -245,7 +245,7 @@ date: 2026-03-24
 location: London (Cardiologist A → Neurologist C)
 symptoms: Complex neurological and autonomic symptom constellation
 ```
-- **Transcript:** [Referral-Letter-Cardiologist-A-to-Neurologist-C-2026-03-24](Transcripts%20Anonymous/2026/03-March/Cardiology/Referral-Letter-Cardiologist-A-to-Neurologist-C-2026-03-24.md)
+- **Transcript:** [Referral-Letter-Cardiologist-A-to-Neurologist-C-2026-03-24](../../Transcripts%20Anonymous/2026/03-March/Cardiology/Referral-Letter-Cardiologist-A-to-Neurologist-C-2026-03-24.md)
 - **Key concerns:**
   - **Possible parkinsonism** (atypical presentation)
   - Reduced exercise tolerance, post-exertional fatigue, palpitations, chest pain
@@ -265,7 +265,7 @@ date: 2026-03-27
 location: London (Neurologist C)
 symptoms: Worsening fatigue (since 2025), exercise intolerance, involuntary movements (recurring), cauda equina-like episode (13 March)
 ```
-- **Transcript:** [Patient-Letter-Neurologist-C-London-2026-03-27](Transcripts%20Anonymous/2026/03-March/Neurology/Patient-Letter-Neurologist-C-London-2026-03-27.md)
+- **Transcript:** [Patient-Letter-Neurologist-C-London-2026-03-27](../../Transcripts%20Anonymous/2026/03-March/Neurology/Patient-Letter-Neurologist-C-London-2026-03-27.md)
 - **Diagnoses established:**
   1. **Functional Neurological Disorder** (F44.4)
   2. Bipolar Affective Disorder (F31.9)
@@ -290,7 +290,7 @@ date: 2026-03 (undated, prepared for ER presentations)
 location: N/A — self-authored
 symptoms: Summary document for emergency teams
 ```
-- **Transcript:** [Resumo-Clinico-para-Urgencias-2026-03](Transcripts%20Anonymous/2026/03-March/Psychiatry/Resumo-Clinico-para-Urgencias-2026-03.md)
+- **Transcript:** [Resumo-Clinico-para-Urgencias-2026-03](../../Transcripts%20Anonymous/2026/03-March/Psychiatry/Resumo-Clinico-para-Urgencias-2026-03.md)
 - **Known diagnoses listed:**
   - Bipolar Affective Disorder (stable, psychiatry follow-up)
   - Obstructive Sleep Apnoea (AHI 7, on CPAP)
@@ -310,7 +310,7 @@ date: 2026-03-11 (authored; covers 2024–2026)
 location: N/A — self-authored
 symptoms: Longitudinal fatigue and movement disorder progression
 ```
-- **Transcript:** [Diario-de-Saude-Fadiga-Distonia-2024-2026](Transcripts%20Anonymous/2026/03-March/Health-Log/Diario-de-Saude-Fadiga-Distonia-2024-2026.md)
+- **Transcript:** [Diario-de-Saude-Fadiga-Distonia-2024-2026](../../Transcripts%20Anonymous/2026/03-March/Health-Log/Diario-de-Saude-Fadiga-Distonia-2024-2026.md)
 - **Key timeline:**
   - **March 2025:** Able to work continuously without major fatigue
   - **Summer 2025:** Pronounced fatigue with compensation strategies; heavy hiking still possible (1.5km with 16–24kg pack)

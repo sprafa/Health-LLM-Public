@@ -12,7 +12,7 @@ lab: Laboratório A
 location: Guimarães
 symptoms: Routine lithium monitoring (recently started lithium after Nov 2022 dystonia)
 ```
-- **Transcript:** [Resultados-GS-2022-12-30-lithium](Transcripts%20Anonymous/2023/01-January/Lab-Results/Resultados-GS-2022-12-30-lithium.md)
+- **Transcript:** [Resultados-GS-2022-12-30-lithium](../../Transcripts%20Anonymous/2023/01-January/Lab-Results/Resultados-GS-2022-12-30-lithium.md)
 - **Remarkable results:**
   - Lithium **0.50 mmol/l** (ref 0.60–1.20) — **subtherapeutic**
   - Prior values: 0.42, 0.39 — consistently below range
@@ -30,7 +30,7 @@ lab: Laboratório A
 location: Guimarães
 symptoms: Metabolic screening (context: hyperglycaemia noted in 2022 on quetiapine)
 ```
-- **Transcript:** [Resultados-GS-2023-05-25-ogtt](Transcripts%20Anonymous/2023/05-May/Lab-Results/Resultados-GS-2023-05-25-ogtt.md)
+- **Transcript:** [Resultados-GS-2023-05-25-ogtt](../../Transcripts%20Anonymous/2023/05-May/Lab-Results/Resultados-GS-2023-05-25-ogtt.md)
 - **Remarkable results:**
   - Fasting glucose 82 mg/dl — **normal**
   - 2-hour glucose 103 mg/dl — **normal**
@@ -49,7 +49,7 @@ lab: Laboratório A
 location: Guimarães
 symptoms: Routine lithium nephrotoxicity monitoring (requested by Psiquiatra B)
 ```
-- **Transcript:** [Resultados-GS-2023-07-19-renal](Transcripts%20Anonymous/2023/07-July/Lab-Results/Resultados-GS-2023-07-19-renal.md)
+- **Transcript:** [Resultados-GS-2023-07-19-renal](../../Transcripts%20Anonymous/2023/07-July/Lab-Results/Resultados-GS-2023-07-19-renal.md)
 - **Remarkable results:**
   - Urea 26 mg/dl — **normal**
   - Creatinine 0.90 mg/dl — **normal**
