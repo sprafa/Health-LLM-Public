@@ -12,7 +12,11 @@ To start with try this command
 
 **Make sure it read all of it.** Ask it multiple times until you get a firm "Yes" that its read it all. 
 
-Then (ideally with Deep Research/Research mode activated): 
+Then
+
+*Give me a short description of what you have read. Give me a succinct timeline and summary. Include contradictions.* 
+
+After you are satisfied with that move onto the Research step so (ideally with Deep Research/Research mode activated) input this: 
 
 *Do some research. What could be causing the patients symptoms?* *Do some research on this. give me some diagnostic hypothesis. look into every angle. give me results with confidence intervals expressed in percentages, please.*
 
