@@ -4,7 +4,7 @@
 **Data de Relatório:** 19/07/2023
 **Paciente:** Patient, [age removed] A
 **Instituição:** Laboratório A ([location removed])
-**Médico requisitante:** Dr Eduardo Pereira (Psiquiatra B)
+**Médico requisitante:** (Psiquiatra B)
 **Patologista:** [anonymised]
 
 ---

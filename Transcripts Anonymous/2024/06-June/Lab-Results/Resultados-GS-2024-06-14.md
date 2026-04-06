@@ -4,7 +4,7 @@
 **Data de Relatório:** 18/06/2024
 **Paciente:** Patient, [age removed] A
 **Instituição:** Laboratório A ([location removed])
-**Médico requisitante:** Dr Eduardo Pereira
+**Médico requisitante:** - 
 **Patologista:** [anonymised]
 
 ---
