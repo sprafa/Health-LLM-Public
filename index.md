@@ -14,7 +14,7 @@ An Obsidian vault documenting the medical history of a patient. Designed to be r
 
 Verbatim transcriptions of medical records (2018–2026), in original language (mostly Portuguese) with English translation notes. All personal identifiers replaced with role-based codes.
 
-Full listing: [[index of anonymised transcripts of medical records]]
+Full listing: [index of anonymised transcripts of medical records](Transcripts%20Anonymous/index%20of%20anonymised%20transcripts%20of%20medical%20records.md)
 
 ### 2018
 - [CT-Brain-2018-02-27.md](Transcripts%20Anonymous/2018/02-February/Imaging/CT-Brain-2018-02-27.md) — Brain CT scan
@@ -56,7 +56,8 @@ Full listing: [[index of anonymised transcripts of medical records]]
 
 ## Self Exams
 
-- [BP + HR Logs and Symptoms.md](Self%20Exams/BP%20%2B%20HR%20Logs%20and%20Symptoms.md) — Blood pressure, heart rate logs, and symptom tracking
+- [BP + HR Logs and Symptoms.md](Self%20Exams%20and%20Logs/BP%20%2B%20HR%20Logs%20and%20Symptoms.md) — Blood pressure, heart rate logs, and symptom tracking
+- [Personal Log - March 2026 Update.md](Self%20Exams%20and%20Logs/Personal%20Log%20-%20March%202026%20Update.md) — Personal health log March 2026
 
 ---
 
@@ -65,8 +66,8 @@ Full listing: [[index of anonymised transcripts of medical records]]
 Cross-referenced Obsidian navigation pages.
 
 - [Patient Self Reports.md](Sublinks/Patient%20Self%20Reports.md) — Patient-written accounts
-- [Exams to Do and To Be Done.md](Exams%20to%20Do%20and%20To%20Be%20Done.md) — Pending investigations
-- [Questions to answered.md](Questions%20to%20answered.md) — Open diagnostic questions
+- [Exams to Do and To Be Done.md](Sublinks/General/Exams%20to%20Do%20and%20To%20Be%20Done.md) — Pending investigations
+- [Questions to answered.md](Sublinks/General/Questions%20to%20answered.md) — Open diagnostic questions
 - [All Exams done And Results.md](Sublinks/Exams/All%20Exams%20done%20And%20Results.md) — Complete exam history
 - [Exams from 2021.md](Sublinks/Exams/Exams%20from%202021.md)
 - [Exams from 2022.md](Sublinks/Exams/Exams%20from%202022.md)
@@ -74,6 +75,4 @@ Cross-referenced Obsidian navigation pages.
 - [Exams from 2024.md](Sublinks/Exams/Exams%20from%202024.md)
 - [Exams from 2025.md](Sublinks/Exams/Exams%20from%202025.md)
 - [Exams from 2026.md](Sublinks/Exams/Exams%20from%202026.md)
-- [[exhaustiveindex]]
-
-
+- [Exhaustive File Index](exhaustiveindex.md) — Every single file in the repository with descriptions
