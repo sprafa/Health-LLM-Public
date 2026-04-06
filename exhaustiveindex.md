@@ -8,7 +8,10 @@ Complete listing of every file in the public repository.
 
 ## Self Exams
 
-- [BP + HR Logs and Symptoms - Previous.md](Self%20Exams%20and%20Logs/BP%20HR/BP%20HR%20Logs%20and%20Symptoms%20-%20Previous.md) — Blood pressure, heart rate measurements, and symptom logs from medical visits
+- [BP HR Logs and Symptoms - Previous.md](Self%20Exams%20and%20Logs/BP%20HR/BP%20HR%20Logs%20and%20Symptoms%20-%20Previous.md) — Blood pressure, heart rate measurements, and symptom logs from medical visits
+- [BP HR April 6.md](Self%20Exams%20and%20Logs/BP%20HR/BP%20HR%20April%206.md) — Blood pressure and heart rate log, April 6 2026
+- [Urine and Water Log - April 6th.md](Self%20Exams%20and%20Logs/Urine/Urine%20and%20Water%20Log%20-%20April%206th.md) — Urine and water intake tracking, April 6 2026
+- [Personal Log - March 2026 Update.md](Self%20Exams%20and%20Logs/Personal%20Log%20-%20March%202026%20Update.md) — Personal health log March 2026
 
 ---
 
