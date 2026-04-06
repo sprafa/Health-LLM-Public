@@ -12,6 +12,12 @@ confidence: not applicable
 
 Complete listing of every file in the public repository.
 
+## LLM Summary
+
+- [Full Vault Transcription — 6 April 2026](LLM%20Summary/6%20April%202026.md) — Complete verbatim transcription of every file in this vault in a single document
+
+---
+
 - [README.md](README.md) — Project description
 - [Basic Patient Facts](Basic%20Facts.md) — Key patient background information
 - [Important Start Notes and Current Observations](Sublinks/Important%20Start%20Notes%20and%20Current%20Observations.md) — Key observations and starting context

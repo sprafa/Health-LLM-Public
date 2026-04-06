@@ -13,7 +13,8 @@ confidence: not applicable
 An Obsidian vault documenting the medical history of a patient. Designed to be read by both humans and LLM assistants to help with diagnosis of an unknown neurological disease.
 ## Give this to your LLM 
 
-- [Exhaustive File Index](exhaustiveindex.md) — Every single file in the repository with descriptions. If you are giving this project to an LLM have it start here. 
+- [Full Vault Transcription — 6 April 2026](LLM%20Summary/6%20April%202026.md) — Complete verbatim transcription of every file in this vault in a single document. Start here.
+- [Exhaustive File Index](exhaustiveindex.md) — Every single file in the repository indexed with descriptions. If you are giving this project to an LLM have it look through this. 
 - [Basic Patient Facts](Basic%20Facts.md) — Key patient background information
 #### Readme 
 
