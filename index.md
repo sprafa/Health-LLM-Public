@@ -3,21 +3,30 @@
 An Obsidian vault documenting the medical history of a patient. Designed to be read by both humans and LLM assistants to help with diagnosis of an unknown neurological disease.
 
 ---
+# Important Start Notes and Current Observations
 
+- I definitely have Bipolar
+- Even after salt loading, the condition 
+- Cauda equina like symptoms come and go (its very odd)
+- As of April 2026, on a stable dose of electrolytes and salt (2x bags of Dioralyte a day and +6 grams of salt a day in 600ml of water), fatigue symptoms seem to have become worse, not stable. In the UK 2x Liquid IV daily seemed to work better than Dioralyte. 
+- Two major dystonia/parkinsonism/functional neurological motor symptom crisis - one in 2022 and another one in 2026. In 2022 I was on a combination of 300mg Seroquel SR or quetiapine and 50mg Lamictal. In 2026 I was on 600mg of lithium and had just tapered off quetiapine, which had been at 100mg or 50mg for years (since 2022). 
+- Paresthesia is a recurring symptom. It happened in 2021 and returned in force in 2026. I had it very strongly alongside the first new motor symptom crisis in 2026. Then again when the cauda equina symptoms showed up. And they still remain to this day. 
 ## Overview
 
 - [README.md](README.md) — Project description
+- [Exhaustive File Index](exhaustiveindex.md) — Every single file in the repository with descriptions. If you are an LLM start here. 
 
 ---
-
+# What this Project Contains 
 ## Anonymised Medical Transcripts
 
 Verbatim transcriptions of medical records (2018–2026), in original language (mostly Portuguese) with English translation notes. All personal identifiers replaced with role-based codes.
 
 Full listing: [index of anonymised transcripts of medical records](Transcripts%20Anonymous/index%20of%20anonymised%20transcripts%20of%20medical%20records.md)
 
+### Important Exams noted 
 ### 2018
-- [CT-Brain-2018-02-27.md](Transcripts%20Anonymous/2018/02-February/Imaging/CT-Brain-2018-02-27.md) — Brain CT scan
+- CT of the Brain done in 2018-02-27 — Brain CT scan done at onset of Bipolar. Baseline 
 
 ### 2021 — Post-vaccine onset (27 files)
 - **Discharge Notes:** 5 ER discharges (Aug–Nov)
@@ -56,12 +65,12 @@ Full listing: [index of anonymised transcripts of medical records](Transcripts%2
 
 ## Self Exams
 
-- [BP + HR Logs and Symptoms.md](Self%20Exams%20and%20Logs/BP%20%2B%20HR%20Logs%20and%20Symptoms.md) — Blood pressure, heart rate logs, and symptom tracking
+- [BP + HR Logs and Symptoms - Previous.md](Self%20Exams%20and%20Logs/BP%20HR/BP%20%2B%20HR%20Logs%20and%20Symptoms%20-%20Previous.md) — Blood pressure, heart rate logs, and symptom tracking
 - [Personal Log - March 2026 Update.md](Self%20Exams%20and%20Logs/Personal%20Log%20-%20March%202026%20Update.md) — Personal health log March 2026
 
 ---
 
-## Sublinks
+## Other Sublinks
 
 Cross-referenced Obsidian navigation pages.
 
@@ -75,4 +84,4 @@ Cross-referenced Obsidian navigation pages.
 - [Exams from 2024.md](Sublinks/Exams/Exams%20from%202024.md)
 - [Exams from 2025.md](Sublinks/Exams/Exams%20from%202025.md)
 - [Exams from 2026.md](Sublinks/Exams/Exams%20from%202026.md)
-- [Exhaustive File Index](exhaustiveindex.md) — Every single file in the repository with descriptions
+- [Exhaustive File Index](exhaustiveindex.md) — Every single file in the repository with descriptions. LLMs can start here.

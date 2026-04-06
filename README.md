@@ -8,8 +8,3 @@ Thanks to Andrej Karpathy for the idea.
 
 Mostly executed with Anthropics Claude Code and Claude.
 
-[[index of anonymised transcripts of medical records]]
-
-[[index]]
-
-[[exhaustiveindex]]

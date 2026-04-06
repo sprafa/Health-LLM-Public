@@ -6,16 +6,16 @@ Complete listing of every file in the public repository.
 
 ## Self Exams
 
-- [BP + HR Logs and Symptoms.md](Self%20Exams/BP%20%2B%20HR%20Logs%20and%20Symptoms.md) — Blood pressure, heart rate measurements, and symptom logs from medical visits
+- [BP + HR Logs and Symptoms - Previous.md](Self%20Exams%20and%20Logs/BP%20HR/BP%20%2B%20HR%20Logs%20and%20Symptoms%20-%20Previous.md) — Blood pressure, heart rate measurements, and symptom logs from medical visits
 
 ---
 
 ## Sublinks
 
-- [Yearly log.md](Sublinks/Yearly%20log.md) — Year-by-year timeline overview
+- [Yearly log.md](Sublinks/General/Yearly%20log.md) — Year-by-year timeline overview
 - [Patient Self Reports.md](Sublinks/Patient%20Self%20Reports.md) — Patient mood and self-reported health logs
-- [Exams to Do and To Be Done.md](Sublinks/Exams%20to%20Do%20and%20To%20Be%20Done.md) — Pending investigations and exam requests
-- [Questions to answered.md](Sublinks/Questions%20to%20answered.md) — Open medical and insurance questions about diagnosis and treatment
+- [Exams to Do and To Be Done.md](Sublinks/General/Exams%20to%20Do%20and%20To%20Be%20Done.md) — Pending investigations and exam requests
+- [Questions to answered.md](Sublinks/General/Questions%20to%20answered.md) — Open medical and insurance questions about diagnosis and treatment
 
 ### Sublinks / Exams
 
