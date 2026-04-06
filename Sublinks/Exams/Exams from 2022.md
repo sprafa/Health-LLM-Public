@@ -4,6 +4,21 @@
 
 ## January 2022
 
+### COVID-19 Antigen Test
+```yaml
+type: Lab — SARS-CoV-2 Rapid Antigen (Nasopharyngeal Swab)
+date: 2022-01-28
+lab: Laboratório A
+location: Guimarães
+symptoms: Routine testing
+```
+- **Transcript:** [Resultados-GS-2022-01-28-covid-antigen](Transcripts%20Anonymous/2022/01-January/Lab-Results/Resultados-GS-2022-01-28-covid-antigen.md)
+- **Remarkable results:**
+  - **Not detectable (negative)**
+- **Context:** Pre-infection baseline
+
+---
+
 ### Sleep Study — Polysomnography
 ```yaml
 type: Sleep Study — Nocturnal Polysomnography (Full PSG)
@@ -12,7 +27,7 @@ lab: Centro de Medicina do Sono
 location: Hospital CUF Porto
 symptoms: Investigation of sleep-disordered breathing (context of post-vaccine fatigue and neurological symptoms)
 ```
-- **Transcripts:** [[Registo-Poligrafico-Sono-2022-01-20]] | [[Polysomnography-Data-Report-2022-01-20]]
+- **Transcripts:** [Registo-Poligrafico-Sono-2022-01-20](Transcripts%20Anonymous/2022/01-January/Sleep-Study/Registo-Poligrafico-Sono-2022-01-20.md) | [Polysomnography-Data-Report-2022-01-20](Transcripts%20Anonymous/2022/01-January/Sleep-Study/Polysomnography-Data-Report-2022-01-20.md)
 - **Remarkable results:**
   - **Mild obstructive sleep apnoea — AHI = 7/h** (3 obstructive, 2 central, 55 hypopnoeas)
   - Predominantly in REM sleep (REM RDI 15.8 vs NREM RDI 5.5), no positional factor
@@ -26,6 +41,23 @@ symptoms: Investigation of sleep-disordered breathing (context of post-vaccine f
 
 ---
 
+## February 2022
+
+### COVID-19 PCR — POSITIVE (First Infection)
+```yaml
+type: Lab — SARS-CoV-2 RT-PCR
+date: 2022-02-03
+lab: Laboratório A
+location: Guimarães
+symptoms: COVID-19 infection
+```
+- **Transcript:** [Resultados-GS-2022-02-03-covid-pcr-positive](Transcripts%20Anonymous/2022/02-February/Lab-Results/Resultados-GS-2022-02-03-covid-pcr-positive.md)
+- **Remarkable results:**
+  - **POSITIVE** — first confirmed COVID-19 infection
+- **Context:** ~6 months post-Janssen vaccine; first documented SARS-CoV-2 infection
+
+---
+
 ## April/May 2022
 
 ### ER Visit #7 — Chest Pain
@@ -36,7 +68,7 @@ lab: Germano de Sousa (via Hospital CUF Porto)
 location: Hospital CUF Porto
 symptoms: Anterior chest pain, nausea, tremors, sensation of dyspnoea (2h); left arm tremor episode; increased alcohol consumption last 2 weeks
 ```
-- **Transcripts:** [[Notas-de-Alta-2022-04-30]] | [[Resultados-Patologia-Clinica-2022-04-30]] | [[Resultados-Patologia-Clinica-2022-05-01-cardiac]]
+- **Transcripts:** [Notas-de-Alta-2022-04-30](Transcripts%20Anonymous/2022/05-May/Discharge-Notes/Notas-de-Alta-2022-04-30.md) | [Resultados-Patologia-Clinica-2022-04-30](Transcripts%20Anonymous/2022/05-May/Lab-Results/Resultados-Patologia-Clinica-2022-04-30.md) | [Resultados-Patologia-Clinica-2022-05-01-cardiac](Transcripts%20Anonymous/2022/05-May/Lab-Results/Resultados-Patologia-Clinica-2022-05-01-cardiac.md)
 - **Remarkable results:**
   - D-Dimer **now normal** at 130.78 ng/ml (ref <500) — fully resolved
   - Troponin normal (<2), Myoglobin normal (20.0)
@@ -58,7 +90,7 @@ lab: Germano de Sousa (via Hospital CUF Porto)
 location: Hospital CUF Porto
 symptoms: Abdominal pain in left flank and hypochondrium, intermittent, colicky, sensation of distended abdomen
 ```
-- **Transcripts:** [[Notas-de-Alta-2022-05-10]] | [[Resultados-Patologia-Clinica-2022-05-10]] | [[Ecografia-Abdominal-2022-05-10]]
+- **Transcripts:** [Notas-de-Alta-2022-05-10](Transcripts%20Anonymous/2022/05-May/Discharge-Notes/Notas-de-Alta-2022-05-10.md) | [Resultados-Patologia-Clinica-2022-05-10](Transcripts%20Anonymous/2022/05-May/Lab-Results/Resultados-Patologia-Clinica-2022-05-10.md) | [Ecografia-Abdominal-2022-05-10](Transcripts%20Anonymous/2022/05-May/Imaging/Ecografia-Abdominal-2022-05-10.md)
 - **Remarkable results:**
   - **Abdominal ultrasound: completely normal** — liver, gallbladder, pancreas, spleen, kidneys all unremarkable, no free fluid
   - CBC normalised (Hb 14.8, RBC 4.78, Hct 43.5%)
@@ -78,7 +110,7 @@ lab: IPATIMUP (Porto)
 location: Hospital CUF Porto (biopsy) / IPATIMUP (pathology)
 symptoms: 1cm melanocytic naevus in left abdominal area with network irregularity
 ```
-- **Transcript:** [[Relatorio-Anatomo-Patologico-IPATIMUP-2022-05-26]]
+- **Transcript:** [Relatorio-Anatomo-Patologico-IPATIMUP-2022-05-26](Transcripts%20Anonymous/2022/05-May/Pathology/Relatorio-Anatomo-Patologico-IPATIMUP-2022-05-26.md)
 - **Remarkable results:**
   - **Compound melanocytic naevus — BENIGN**
   - No signs of malignancy
@@ -96,7 +128,7 @@ date: 2022-06-27
 location: Hospital CUF Porto — Gastroenterology
 symptoms: Dyspepsia
 ```
-- **Transcript:** [[Endoscopia-Alta-EGD-2022-06-27]]
+- **Transcript:** [Endoscopia-Alta-EGD-2022-06-27](Transcripts%20Anonymous/2022/06-June/Endoscopy/Endoscopia-Alta-EGD-2022-06-27.md)
 - **Remarkable results:**
   - **Normal exam** — oesophagus, stomach, duodenum all clear
   - NBI chromoscopy normal mucosal pattern
@@ -112,7 +144,7 @@ date: 2022-06-27
 location: Hospital CUF Porto — Gastroenterology
 symptoms: Abdominal pain
 ```
-- **Transcript:** [[Colonoscopia-Total-2022-06-27]]
+- **Transcript:** [Colonoscopia-Total-2022-06-27](Transcripts%20Anonymous/2022/06-June/Endoscopy/Colonoscopia-Total-2022-06-27.md)
 - **Remarkable results:**
   - **Normal total ileocolonoscopy** — complete to caecum with ileoscopy
   - No lesions of colonic mucosa or terminal ileum
@@ -129,7 +161,7 @@ lab: IPATIMUP (Porto)
 location: Hospital CUF Porto (biopsy) / IPATIMUP (pathology)
 symptoms: NBI chromoscopy with normal mucosal pattern — biopsies for H. pylori testing
 ```
-- **Transcript:** [[Relatorio-Anatomo-Patologico-Estomago-IPATIMUP-2022-06-27]]
+- **Transcript:** [Relatorio-Anatomo-Patologico-Estomago-IPATIMUP-2022-06-27](Transcripts%20Anonymous/2022/06-June/Pathology/Relatorio-Anatomo-Patologico-Estomago-IPATIMUP-2022-06-27.md)
 - **Remarkable results:**
   - **Normal gastric mucosa** — no inflammation, atrophy, metaplasia, dysplasia or malignancy
   - **H. pylori NEGATIVE** (modified Giemsa technique)
@@ -144,7 +176,7 @@ date: 2022-06-29
 location: Hospital CUF Porto
 symptoms: Follow-up of known right lingual gyrus lesion (8mm, from Sept 2021)
 ```
-- **Transcript:** [[RM-Cranio-Encefalica-2022-06-29]]
+- **Transcript:** [RM-Cranio-Encefalica-2022-06-29](Transcripts%20Anonymous/2022/06-June/Imaging/RM-Cranio-Encefalica-2022-06-29.md)
 - **Remarkable results:**
   - **Lesion practically unchanged** compared to 17.09.2021 — stable
   - Juxtacortical right mesial temporal high signal, possibly right lingual gyrus
@@ -153,6 +185,23 @@ symptoms: Follow-up of known right lingual gyrus lesion (8mm, from Sept 2021)
   - Inflammatory mucosal thickening in maxillary sinuses (incidental)
 - **Conclusion:** Globally superimposable to Sept 2021 — **stable, no progression**
 - **Follow-up:** Control in 1 year; if stable, discharge
+
+---
+
+## July 2022
+
+### COVID-19 Antigen — POSITIVE (Second Infection)
+```yaml
+type: Lab — SARS-CoV-2 Rapid Antigen
+date: 2022-07-27
+lab: Laboratório A
+location: Guimarães
+symptoms: COVID-19 reinfection
+```
+- **Transcript:** [Resultados-GS-2022-07-27-covid-antigen-positive](Transcripts%20Anonymous/2022/07-July/Lab-Results/Resultados-GS-2022-07-27-covid-antigen-positive.md)
+- **Remarkable results:**
+  - **Detected (positive)** — second confirmed COVID-19 infection
+- **Context:** ~5 months after first infection (Feb 2022); two COVID infections in 2022
 
 ---
 
@@ -166,7 +215,7 @@ lab: Germano de Sousa (via Hospital CUF Porto)
 location: Hospital CUF Porto
 symptoms: Holocranial headache + photophobia + blurred vision (yesterday, now improved); myalgias, somnolence, difficulty concentrating; hasn't eaten today
 ```
-- **Transcripts:** [[Notas-de-Alta-2022-08-29]] | [[Resultados-Patologia-Clinica-2022-08-29]] | [[TC-Cranio-2022-08-29]]
+- **Transcripts:** [Notas-de-Alta-2022-08-29](Transcripts%20Anonymous/2022/08-August/Discharge-Notes/Notas-de-Alta-2022-08-29.md) | [Resultados-Patologia-Clinica-2022-08-29](Transcripts%20Anonymous/2022/08-August/Lab-Results/Resultados-Patologia-Clinica-2022-08-29.md) | [TC-Cranio-2022-08-29](Transcripts%20Anonymous/2022/08-August/Imaging/TC-Cranio-2022-08-29.md)
 - **Remarkable results:**
   - **Brain CT: Normal** — no acute haemorrhage, no density abnormalities, normal ventricles
   - All bloods normal (CBC, glucose, CRP, renal, hepatic, LDH, bilirubin, electrolytes)
@@ -190,7 +239,7 @@ lab: Germano de Sousa (via Hospital CUF Porto)
 location: Hospital CUF Porto
 symptoms: Dystonia and akathisia for 2 days; patient filmed episodes at home; no recent medication changes
 ```
-- **Transcripts:** [[Notas-de-Alta-2022-11-11]] | [[Resultados-Patologia-Clinica-2022-11-11]]
+- **Transcripts:** [Notas-de-Alta-2022-11-11](Transcripts%20Anonymous/2022/11-November/Discharge-Notes/Notas-de-Alta-2022-11-11.md) | [Resultados-Patologia-Clinica-2022-11-11](Transcripts%20Anonymous/2022/11-November/Lab-Results/Resultados-Patologia-Clinica-2022-11-11.md)
 - **Remarkable results:**
   - **Presence of dystonia on examination** — no movements during rest
   - Examined jointly with neurology
@@ -213,7 +262,7 @@ date: 2022-04-01
 location: Remote (London psychiatrist, patient in Porto)
 symptoms: Stable mood but concerned about physical health — hyperglycaemia at Christmas, HbA1c bordering pre-diabetic
 ```
-- **Transcript:** [[GP-Letter-Psychiatrist-A-2022-04-01]]
+- **Transcript:** [GP-Letter-Psychiatrist-A-2022-04-01](Transcripts%20Anonymous/2022/04-April/Psychiatry/GP-Letter-Psychiatrist-A-2022-04-01.md)
 - **Remarkable results:**
   - Mood and life very stable on Seroquel 300mg + Lamictal 50mg
   - **Hyperglycaemia episode at Christmas** — HbA1c bordering pre-diabetic
@@ -229,6 +278,7 @@ symptoms: Stable mood but concerned about physical health — hyperglycaemia at 
 
 | Finding | Status |
 |---|---|
+| **Two confirmed COVID-19 infections** (Feb + Jul 2022) | Both documented; second infection ~5 months after first |
 | Mild OSA diagnosed (AHI 7/h, REM-predominant) | CPAP initiated |
 | D-dimers fully normalised | Resolved — 130.78 ng/ml (April 2022) |
 | Brain lesion (right lingual gyrus) stable on follow-up MRI | No progression vs Sept 2021 |
