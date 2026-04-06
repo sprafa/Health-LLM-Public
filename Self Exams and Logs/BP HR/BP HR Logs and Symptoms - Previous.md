@@ -51,7 +51,16 @@ Test -- Date
 - Standing 1-2 min: 123/72, HR 64
 
 **April 5 2026** - Symptomatic
-Symptoms - 
+
+15.13 / 3.13pm 
+108/59 Pulse 68 
+
+15.22 / 3.22pm 
+111/59 Pulse 74
+
+(believe both tests were lying down)
+
+Symptoms 
 - its Difficult when standing
 - Rage (adrenaline? seems positional, so not bipolar. not angry when lying down, happens a few minutes after standing up )
 - Headache when standing
