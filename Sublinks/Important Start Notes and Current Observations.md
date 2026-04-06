@@ -1,7 +1,6 @@
 
 
 - I definitely have Bipolar
-- Even after salt loading, the condition 
 - Cauda equina like symptoms come and go (its very odd)
 - As of April 2026, on a stable dose of electrolytes and salt (2x bags of Dioralyte a day and +6 grams of salt a day in 600ml of water), fatigue symptoms seem to have become worse, not stable. In the UK 2x Liquid IV daily seemed to work better than Dioralyte. 
 - Two major dystonia/parkinsonism/functional neurological motor symptom crisis - one in 2022 and another one in 2026. In 2022 I was on a combination of 300mg Seroquel SR or quetiapine and 50mg Lamictal. In 2026 I was on 600mg of lithium and had just tapered off quetiapine, which had been at 100mg or 50mg for years (since 2022). 
