@@ -1,3 +1,13 @@
+---
+title: Referral Letter Cardiologist A to Neurologist C 2026-03-24
+type: summary
+created: 2026-03-24
+updated: 2026-04-06
+sources: []
+tags: [cardiology, referral, 2026]
+confidence: medical assessment
+---
+
 # Referral Letter — Cardiologist A (London) to Neurologist C (London) — 24-03-2026
 
 **Date:** 24th March 2026

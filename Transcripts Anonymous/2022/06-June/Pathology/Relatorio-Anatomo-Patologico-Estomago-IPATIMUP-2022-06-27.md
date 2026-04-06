@@ -1,3 +1,13 @@
+---
+title: Pathology Report Stomach IPATIMUP 2022-06-27
+type: summary
+created: 2022-06-27
+updated: 2026-04-06
+sources: []
+tags: [pathology, biopsy, 2022]
+confidence: medical assessment
+---
+
 # Relatório Anátomo-Patológico — Estômago — 27-06-2022
 
 **Data da colheita:** 27/06/2022

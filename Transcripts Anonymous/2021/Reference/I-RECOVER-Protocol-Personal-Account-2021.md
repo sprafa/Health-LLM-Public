@@ -1,3 +1,13 @@
+---
+title: I-RECOVER Protocol Personal Account
+type: timeline
+created: 2021-01-01
+updated: 2026-04-06
+sources: []
+tags: [treatment, covid, protocol]
+confidence: subjective
+---
+
 # Personal Account — I-RECOVER Protocol and Mast Cell Activation (2021)
 
 **Type:** Personal blog/forum post (saved as PDF)

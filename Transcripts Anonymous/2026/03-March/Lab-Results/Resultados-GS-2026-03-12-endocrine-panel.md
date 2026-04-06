@@ -1,3 +1,13 @@
+---
+title: Lab Results GS 2026-03-12 Endocrine Panel
+type: summary
+created: 2026-03-12
+updated: 2026-04-06
+sources: []
+tags: [lab-results, 2026]
+confidence: medical assessment
+---
+
 # Resultados Laboratório A (Porto — Trindade) — 12-03-2026 (Painel Endócrino)
 
 **Data de Colheita:** 12/03/2026

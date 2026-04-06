@@ -1,3 +1,13 @@
+---
+title: MRI Brain Spectroscopy 2021-09-17
+type: summary
+created: 2021-09-17
+updated: 2026-04-06
+sources: []
+tags: [imaging, 2021]
+confidence: medical assessment
+---
+
 # RM Crânio-Encefálica — MR Spectro Analysis — 17-09-2021
 
 **Data:** 17-09-2021

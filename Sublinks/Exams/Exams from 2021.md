@@ -1,3 +1,13 @@
+---
+title: Exams from 2021
+type: exam
+created: 2021-01-01
+updated: 2026-04-06
+sources: []
+tags: [exams, 2021]
+confidence: objective
+---
+
 # Exams from 2021
 
 ---

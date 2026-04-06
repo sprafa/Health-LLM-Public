@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /Unindexed%20Files/
 
 Sitemap: https://sprafa.github.io/Health-LLM-Public/sitemap.xml

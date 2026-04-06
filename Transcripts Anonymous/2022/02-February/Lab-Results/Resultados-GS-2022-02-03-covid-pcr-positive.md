@@ -1,3 +1,13 @@
+---
+title: Lab Results GS 2022-02-03 COVID PCR Positive
+type: summary
+created: 2022-02-03
+updated: 2026-04-06
+sources: []
+tags: [lab-results, 2022]
+confidence: medical assessment
+---
+
 # Resultados Laboratório A — 03/02/2022
 
 **Data de Colheita:** 03/02/2022

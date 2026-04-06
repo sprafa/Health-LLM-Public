@@ -1,3 +1,13 @@
+---
+title: Lab Results GS 2021-08-19 D-Dimer Baseline
+type: summary
+created: 2021-08-19
+updated: 2026-04-06
+sources: []
+tags: [lab-results, 2021]
+confidence: medical assessment
+---
+
 # Resultados Laboratório A (Porto — Trindade) — 19-08-2021 (D-Dímero Baseline)
 
 **Data de Colheita:** 19/08/2021

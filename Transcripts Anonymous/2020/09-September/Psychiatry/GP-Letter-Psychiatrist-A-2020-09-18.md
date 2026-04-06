@@ -1,3 +1,13 @@
+---
+title: GP Letter — Psychiatrist A 2020-09-18
+type: summary
+created: 2020-09-18
+updated: 2026-04-06
+sources: []
+tags: [psychiatry, letter, 2020]
+confidence: medical assessment
+---
+
 # GP Letter — Psychiatrist A (London) — 18-09-2020
 
 **Clinic Date:** 18 September 2020

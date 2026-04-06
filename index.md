@@ -1,9 +1,20 @@
+---
+title: Homepage
+type: summary
+created: 2026-04-06
+updated: 2026-04-06
+sources: []
+tags: [navigation, index]
+confidence: not applicable
+---
+
 # Health-LLM — Project Index
 
 An Obsidian vault documenting the medical history of a patient. Designed to be read by both humans and LLM assistants to help with diagnosis of an unknown neurological disease.
 ## Give this to your LLM 
 
 - [Exhaustive File Index](exhaustiveindex.md) — Every single file in the repository with descriptions. If you are giving this project to an LLM have it start here. 
+- [Basic Patient Facts](Basic%20Facts.md) — Key patient background information
 #### Readme 
 
 - [README.md](README.md) — Project description
@@ -84,8 +95,10 @@ Full listing: [index of anonymised transcripts of medical records](Transcripts%2
 
 ## Self Exams
 
-- [BP + HR Logs and Symptoms - Previous.md](Self%20Exams%20and%20Logs/BP%20HR/BP%20%2B%20HR%20Logs%20and%20Symptoms%20-%20Previous.md) — Blood pressure, heart rate logs, and symptom tracking
-- [Personal Log - March 2026 Update.md](Self%20Exams%20and%20Logs/Personal%20Log%20-%20March%202026%20Update.md) — Personal health log March 2026
+- [BP HR Logs and Symptoms - Previous](Self%20Exams%20and%20Logs/BP%20HR/BP%20HR%20Logs%20and%20Symptoms%20-%20Previous.md) — Blood pressure, heart rate logs, and symptom tracking
+- [BP HR April 6](Self%20Exams%20and%20Logs/BP%20HR/BP%20HR%20April%206.md) — BP and HR log April 6
+- [Personal Log - March 2026 Update](Self%20Exams%20and%20Logs/Personal%20Log%20-%20March%202026%20Update.md) — Personal health log March 2026
+- [Urine and Water Log - April 6th](Self%20Exams%20and%20Logs/Urine/Urine%20and%20Water%20Log%20-%20April%206th.md) — Urine and water intake log
 
 ---
 
@@ -93,10 +106,13 @@ Full listing: [index of anonymised transcripts of medical records](Transcripts%2
 
 Cross-referenced Obsidian navigation pages.
 
-- [Patient Self Reports.md](Sublinks/Patient%20Self%20Reports.md) — Patient-written accounts
-- [Exams to Do and To Be Done.md](Sublinks/General/Exams%20to%20Do%20and%20To%20Be%20Done.md) — Pending investigations
-- [Questions to answered.md](Sublinks/General/Questions%20to%20answered.md) — Open diagnostic questions
-- [All Exams done And Results.md](Sublinks/Exams/All%20Exams%20done%20And%20Results.md) — Complete exam history
+- [Important Start Notes and Current Observations](Sublinks/Important%20Start%20Notes%20and%20Current%20Observations.md) — Key observations and starting context
+- [Patient Self Reports](Sublinks/Patient%20Self%20Reports.md) — Patient-written accounts
+- [Current Avenues of Investigation](Sublinks/General/Current%20avenues%20of%20investigation.md) — Active diagnostic hypotheses
+- [Exams to Do and To Be Done](Sublinks/General/Exams%20to%20Do%20and%20To%20Be%20Done.md) — Pending investigations
+- [Questions to answered](Sublinks/General/Questions%20to%20answered.md) — Open diagnostic questions
+- [Yearly Log](Sublinks/General/Yearly%20log.md) — Year-by-year health timeline
+- [All Exams done And Results](Sublinks/Exams/All%20Exams%20done%20And%20Results.md) — Complete exam history
 - [Exams from 2021.md](Sublinks/Exams/Exams%20from%202021.md)
 - [Exams from 2022.md](Sublinks/Exams/Exams%20from%202022.md)
 - [Exams from 2023.md](Sublinks/Exams/Exams%20from%202023.md)
@@ -104,3 +120,19 @@ Cross-referenced Obsidian navigation pages.
 - [Exams from 2025.md](Sublinks/Exams/Exams%20from%202025.md)
 - [Exams from 2026.md](Sublinks/Exams/Exams%20from%202026.md)
 - [Exhaustive File Index](exhaustiveindex.md) — Every single file in the repository with descriptions. LLMs can start here.
+
+---
+
+## Transcripts by Year
+
+Compiled summaries of all transcripts grouped by year.
+
+- [2018](Transcripts%20Anonymous/Transcripts%20by%20Year/transcripts-2018.md)
+- [2019](Transcripts%20Anonymous/Transcripts%20by%20Year/transcripts-2019.md)
+- [2020](Transcripts%20Anonymous/Transcripts%20by%20Year/transcripts-2020.md)
+- [2021](Transcripts%20Anonymous/Transcripts%20by%20Year/transcripts-2021.md)
+- [2022](Transcripts%20Anonymous/Transcripts%20by%20Year/transcripts-2022.md)
+- [2023](Transcripts%20Anonymous/Transcripts%20by%20Year/transcripts-2023.md)
+- [2024](Transcripts%20Anonymous/Transcripts%20by%20Year/transcripts-2024.md)
+- [2025](Transcripts%20Anonymous/Transcripts%20by%20Year/transcripts-2025.md)
+- [2026](Transcripts%20Anonymous/Transcripts%20by%20Year/transcripts-2026-Apr6.md)

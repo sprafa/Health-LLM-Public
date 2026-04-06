@@ -1,3 +1,13 @@
+---
+title: Abdominal Ultrasound 2022-05-10
+type: summary
+created: 2022-05-10
+updated: 2026-04-06
+sources: []
+tags: [imaging, 2022]
+confidence: medical assessment
+---
+
 # Ecografia Abdominal (Urgência) — 10-05-2022
 
 **Data Exame:** 10/05/2022

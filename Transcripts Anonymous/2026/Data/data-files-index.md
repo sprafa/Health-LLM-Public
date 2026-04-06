@@ -1,3 +1,13 @@
+---
+title: Data Files Index
+type: summary
+created: 2026-04-06
+updated: 2026-04-06
+sources: []
+tags: [index, data]
+confidence: not applicable
+---
+
 # Data Files Index — Raw CSV/Device Data
 
 These files contain raw device data and compilations. They are not traditional medical documents requiring verbatim transcription but are referenced here for completeness.

@@ -1,3 +1,13 @@
+---
+title: Prescription MR Spectroscopy 2021-08-27
+type: summary
+created: 2021-08-27
+updated: 2026-04-06
+sources: []
+tags: [prescriptions, 2021]
+confidence: medical assessment
+---
+
 # Pedido de Exame — Espectroscopia (acresce ao valor da RM) — 27-08-2021
 
 **Data:** 27 de agosto de 2021

@@ -1,3 +1,13 @@
+---
+title: COVID-19 Vaccine, SFN and Autonomic Dysfunction — Evidence Base
+type: analysis
+created: 2026-04-06
+updated: 2026-04-06
+sources: []
+tags: [research, vaccine, neuropathy, autonomic]
+confidence: speculative
+---
+
 # COVID-19 Vaccine, Small Fiber Neuropathy & Autonomic Dysfunction: Evidence Base
 
 ## Summary

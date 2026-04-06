@@ -1,3 +1,13 @@
+---
+title: Lab Results Patologia Clinica 2021-11-10 Coagulation
+type: summary
+created: 2021-11-10
+updated: 2026-04-06
+sources: []
+tags: [lab-results, 2021]
+confidence: medical assessment
+---
+
 # Resultados Patologia Clínica — 10-11-2021 (Coagulação / D-Dímero Follow-up)
 
 **Data de Inscrição:** 10-11-2021

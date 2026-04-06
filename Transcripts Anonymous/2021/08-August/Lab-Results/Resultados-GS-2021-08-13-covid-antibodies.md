@@ -1,3 +1,13 @@
+---
+title: Lab Results GS 2021-08-13 COVID Antibodies
+type: summary
+created: 2021-08-13
+updated: 2026-04-06
+sources: []
+tags: [lab-results, 2021]
+confidence: medical assessment
+---
+
 # Resultados Laboratório A (Porto — Trindade) — 13-08-2021 (Anticorpos SARS-CoV-2)
 
 **Data de Colheita:** 13/08/2021

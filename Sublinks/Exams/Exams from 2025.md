@@ -1,3 +1,13 @@
+---
+title: Exams from 2025
+type: exam
+created: 2025-01-01
+updated: 2026-04-06
+sources: []
+tags: [exams, 2025]
+confidence: objective
+---
+
 # Exams from 2025
 
 ---

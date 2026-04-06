@@ -1,3 +1,12 @@
+---
+title: BP HR Log — April 6
+type: lab-tracking
+created: 2026-04-06
+updated: 2026-04-06
+sources: []
+tags: [vitals, blood-pressure, heart-rate]
+confidence: objective
+---
 
 Waking up 
 **115/66, HR 62.** Clock shows ~7:30am. Lying down 

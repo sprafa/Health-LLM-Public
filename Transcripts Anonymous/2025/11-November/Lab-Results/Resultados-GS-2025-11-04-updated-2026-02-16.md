@@ -1,3 +1,13 @@
+---
+title: Lab Results GS 2025-11-04 Updated 2026-02-16
+type: summary
+created: 2025-11-04
+updated: 2026-04-06
+sources: []
+tags: [lab-results, 2025]
+confidence: medical assessment
+---
+
 # Resultados Laboratório A (Guimarães) — 04-11-2025 (Relatório Atualizado 16-02-2026)
 
 **Data de Colheita:** 04/11/2025

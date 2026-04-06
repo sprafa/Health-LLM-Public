@@ -1,3 +1,13 @@
+---
+title: Lab Results GS 2025-05-13
+type: summary
+created: 2025-05-13
+updated: 2026-04-06
+sources: []
+tags: [lab-results, 2025]
+confidence: medical assessment
+---
+
 # Resultados Laboratório A — 13/05/2025
 
 **Data de Colheita:** 13/05/2025

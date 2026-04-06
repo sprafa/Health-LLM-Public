@@ -1,3 +1,13 @@
+---
+title: Polysomnography Data Report 2022-01-20
+type: summary
+created: 2022-01-20
+updated: 2026-04-06
+sources: []
+tags: [sleep-study, 2022]
+confidence: medical assessment
+---
+
 # Polysomnography Report (RemLogic Data) — 20-01-2022
 
 **Study Date:** 20-01-2022

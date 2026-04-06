@@ -1,3 +1,13 @@
+---
+title: Cardiologist A Letter PT Translation 2026-03-04
+type: summary
+created: 2026-03-04
+updated: 2026-04-06
+sources: []
+tags: [cardiology, letter, 2026]
+confidence: medical assessment
+---
+
 # Carta Médica — Cardiologista A (London) — Tradução PT — 04-03-2026
 
 **Data da consulta:** 04 de março de 2026 (teleconsulta)

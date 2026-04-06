@@ -1,3 +1,13 @@
+---
+title: Patient Letter Neurologist C 2026-03-27
+type: summary
+created: 2026-03-27
+updated: 2026-04-06
+sources: []
+tags: [neurology, letter, 2026]
+confidence: medical assessment
+---
+
 # Patient Letter — Neurologist C (London) — 27-03-2026
 
 **Date:** 27/03/2026

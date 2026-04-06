@@ -1,3 +1,13 @@
+---
+title: AngioTC Cerebral 2021-09-23
+type: summary
+created: 2021-09-23
+updated: 2026-04-06
+sources: []
+tags: [imaging, 2021]
+confidence: medical assessment
+---
+
 # AngioTC Cerebral — 23-09-2021
 
 **Data Exame:** 23/09/2021

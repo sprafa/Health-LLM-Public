@@ -1,3 +1,13 @@
+---
+title: Transcripts 2022
+type: summary
+created: 2026-04-06
+updated: 2026-04-06
+sources: []
+tags: [transcripts, 2022]
+confidence: objective
+---
+
 # Transcripts — 2022
 
 ---

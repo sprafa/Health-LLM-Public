@@ -1,3 +1,13 @@
+---
+title: Lab Results Patologia Clinica 2022-08-29
+type: summary
+created: 2022-08-29
+updated: 2026-04-06
+sources: []
+tags: [lab-results, 2022]
+confidence: medical assessment
+---
+
 # Resultados Patologia Clínica — 29-08-2022
 
 **Data de Colheita:** 29-08-2022

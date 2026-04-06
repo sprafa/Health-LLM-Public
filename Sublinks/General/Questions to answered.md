@@ -1,3 +1,12 @@
+---
+title: Questions to Be Answered
+type: analysis
+created: 2026-03-01
+updated: 2026-04-06
+sources: []
+tags: [questions, investigation]
+confidence: not applicable
+---
 
 - Was the JJ COVID vaccine an origin event or is this unrelated
 - Can it be proven that the COVID vaccine was the origin and can that help with medical costs in any way 

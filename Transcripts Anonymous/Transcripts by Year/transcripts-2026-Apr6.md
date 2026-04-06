@@ -1,3 +1,13 @@
+---
+title: Transcripts 2026
+type: summary
+created: 2026-04-06
+updated: 2026-04-06
+sources: []
+tags: [transcripts, 2026]
+confidence: objective
+---
+
 # Transcripts — 2026
 
 ---

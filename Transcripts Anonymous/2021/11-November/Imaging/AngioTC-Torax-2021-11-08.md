@@ -1,3 +1,13 @@
+---
+title: AngioTC Thorax 2021-11-08
+type: summary
+created: 2021-11-08
+updated: 2026-04-06
+sources: []
+tags: [imaging, 2021]
+confidence: medical assessment
+---
+
 # Angio TAC do Tórax e Bases Pulmonares — 08-11-2021
 
 **Data Exame:** 08/11/2021

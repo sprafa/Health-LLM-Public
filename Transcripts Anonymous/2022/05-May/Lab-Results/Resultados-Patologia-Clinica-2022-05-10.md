@@ -1,3 +1,13 @@
+---
+title: Lab Results Patologia Clinica 2022-05-10
+type: summary
+created: 2022-05-10
+updated: 2026-04-06
+sources: []
+tags: [lab-results, 2022]
+confidence: medical assessment
+---
+
 # Resultados Patologia Clínica — 10-05-2022
 
 **Data de Colheita:** 10-05-2022

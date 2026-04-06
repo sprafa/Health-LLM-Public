@@ -1,3 +1,13 @@
+---
+title: Discharge Notes 2022-08-29
+type: summary
+created: 2022-08-29
+updated: 2026-04-06
+sources: []
+tags: [discharge, hospital, 2022]
+confidence: medical assessment
+---
+
 # Informação Clínica — Atendimento Permanente — 29-08-2022
 
 **Data de Admissão:** 29-08-2022 **Hora de Admissão:** 14:47

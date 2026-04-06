@@ -1,3 +1,13 @@
+---
+title: AngioTC Thorax 2021-09-06
+type: summary
+created: 2021-09-06
+updated: 2026-04-06
+sources: []
+tags: [imaging, 2021]
+confidence: medical assessment
+---
+
 # Angio TAC / TC Tórax — 06-09-2021
 
 **Data Exame:** 06/09/2021

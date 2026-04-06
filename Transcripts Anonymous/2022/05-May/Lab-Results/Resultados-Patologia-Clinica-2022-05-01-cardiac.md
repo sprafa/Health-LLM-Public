@@ -1,3 +1,13 @@
+---
+title: Lab Results Patologia Clinica 2022-05-01 Cardiac
+type: summary
+created: 2022-05-01
+updated: 2026-04-06
+sources: []
+tags: [lab-results, 2022]
+confidence: medical assessment
+---
+
 # Resultados Patologia Clínica — 01-05-2022 (Marcadores Cardíacos)
 
 **Data de Inscrição:** 01-05-2022

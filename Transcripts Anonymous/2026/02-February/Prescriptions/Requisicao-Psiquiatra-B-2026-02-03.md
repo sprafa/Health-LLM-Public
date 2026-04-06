@@ -1,3 +1,13 @@
+---
+title: Prescription Psychiatrist B 2026-02-03
+type: summary
+created: 2026-02-03
+updated: 2026-04-06
+sources: []
+tags: [prescriptions, 2026]
+confidence: medical assessment
+---
+
 # Requisição de Exames — Psiquiatra B (Porto) — 03-02-2026
 
 **Data emissão:** 03/02/2026

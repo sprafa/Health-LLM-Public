@@ -1,3 +1,13 @@
+---
+title: Exams from 2024
+type: exam
+created: 2024-01-01
+updated: 2026-04-06
+sources: []
+tags: [exams, 2024]
+confidence: objective
+---
+
 # Exams from 2024
 
 ---

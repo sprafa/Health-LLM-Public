@@ -1,3 +1,13 @@
+---
+title: Exams from 2022
+type: exam
+created: 2022-01-01
+updated: 2026-04-06
+sources: []
+tags: [exams, 2022]
+confidence: objective
+---
+
 # Exams from 2022
 
 ---

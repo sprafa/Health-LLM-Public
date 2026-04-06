@@ -1,3 +1,13 @@
+---
+title: Discharge Notes 2022-04-30
+type: summary
+created: 2022-04-30
+updated: 2026-04-06
+sources: []
+tags: [discharge, hospital, 2022]
+confidence: medical assessment
+---
+
 # Notas de Alta — 30-04-2022 / 01-05-2022
 
 **Data de Admissão:** 30-04-2022 **Hora de Admissão:** 23:06

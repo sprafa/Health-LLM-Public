@@ -1,3 +1,13 @@
+---
+title: Lab Results GS 2021-04-21 Hormones
+type: summary
+created: 2021-04-21
+updated: 2026-04-06
+sources: []
+tags: [lab-results, 2021]
+confidence: medical assessment
+---
+
 # Resultados Laboratório A (Porto — Trindade) — 21-04-2021 (Hormonas)
 
 **Data de Colheita:** 21/04/2021

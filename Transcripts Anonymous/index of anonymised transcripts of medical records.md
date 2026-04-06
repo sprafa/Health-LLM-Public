@@ -1,3 +1,13 @@
+---
+title: Index of Anonymised Transcripts
+type: summary
+created: 2026-04-06
+updated: 2026-04-06
+sources: []
+tags: [navigation, index, transcripts]
+confidence: not applicable
+---
+
 # Medical Records Index
 
 Anonymised transcripts of medical records (2018–2026) for a patient with post-vaccine neurological, vascular, and autonomic symptoms beginning August 2021.

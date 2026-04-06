@@ -1,3 +1,13 @@
+---
+title: Discharge Notes 2021-09-06
+type: summary
+created: 2021-09-06
+updated: 2026-04-06
+sources: []
+tags: [discharge, 2021]
+confidence: medical assessment
+---
+
 # Notas de Alta — 06-09-2021
 
 **Data de Admissão:** 06-09-2021 **Hora de Admissão:** 18:08

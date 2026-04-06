@@ -1,3 +1,13 @@
+---
+title: Lab Results Patologia Clinica 2021-09-06
+type: summary
+created: 2021-09-06
+updated: 2026-04-06
+sources: []
+tags: [lab-results, 2021]
+confidence: medical assessment
+---
+
 # Resultados Patologia Clínica — 06-09-2021
 
 **Data de Colheita:** 06-09-2021

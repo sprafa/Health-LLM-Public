@@ -1,3 +1,12 @@
+---
+title: Patient Self Reports
+type: summary
+created: 2024-01-01
+updated: 2026-04-06
+sources: []
+tags: [symptoms, self-report]
+confidence: subjective
+---
 
 Moodnotes Log 
 

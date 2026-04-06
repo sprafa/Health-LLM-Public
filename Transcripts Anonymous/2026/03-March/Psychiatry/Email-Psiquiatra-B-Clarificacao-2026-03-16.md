@@ -1,3 +1,13 @@
+---
+title: Email Psychiatrist B Clarification 2026-03-16
+type: summary
+created: 2026-03-16
+updated: 2026-04-06
+sources: []
+tags: [psychiatry, 2026]
+confidence: medical assessment
+---
+
 # Email — Psiquiatra B (Porto) — Carta de Clarificação — 16-03-2026
 
 **Data:** 16-03-2026

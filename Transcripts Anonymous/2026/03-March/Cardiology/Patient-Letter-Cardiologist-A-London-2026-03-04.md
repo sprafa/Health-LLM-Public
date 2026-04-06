@@ -1,3 +1,13 @@
+---
+title: Patient Letter Cardiologist A 2026-03-04
+type: summary
+created: 2026-03-04
+updated: 2026-04-06
+sources: []
+tags: [cardiology, letter, 2026]
+confidence: medical assessment
+---
+
 # Patient Letter — Cardiologist A (London) — 04-03-2026
 
 **Clinic Date:** 04 March 2026 (video consultation)

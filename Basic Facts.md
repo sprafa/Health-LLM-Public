@@ -1,3 +1,12 @@
+---
+title: Basic Patient Facts
+type: summary
+created: 2026-04-06
+updated: 2026-04-06
+sources: []
+tags: [patient, background]
+confidence: subjective
+---
 
 Rafael Lino
 Born 1989 

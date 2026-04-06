@@ -1,3 +1,13 @@
+---
+title: Lab Results GS 2025-09-16 Calcium Vitamin D
+type: summary
+created: 2025-09-16
+updated: 2026-04-06
+sources: []
+tags: [lab-results, 2025]
+confidence: medical assessment
+---
+
 # Resultados Laboratório A — 16/09/2025
 
 **Data de Colheita:** 16/09/2025

@@ -1,3 +1,13 @@
+---
+title: Lab Results GS 2021-08-24 D-Dimer CRP
+type: summary
+created: 2021-08-24
+updated: 2026-04-06
+sources: []
+tags: [lab-results, 2021]
+confidence: medical assessment
+---
+
 # Resultados Laboratório A (Porto — Trindade) — 24-08-2021 (D-Dímero + PCR)
 
 **Data de Colheita:** 24/08/2021

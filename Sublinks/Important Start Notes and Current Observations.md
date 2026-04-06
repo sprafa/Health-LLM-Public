@@ -1,4 +1,12 @@
-
+---
+title: Important Start Notes
+type: summary
+created: 2026-03-01
+updated: 2026-04-06
+sources: []
+tags: [overview, observations]
+confidence: subjective
+---
 
 - I definitely have Bipolar
 - Cauda equina like symptoms come and go (its very odd)

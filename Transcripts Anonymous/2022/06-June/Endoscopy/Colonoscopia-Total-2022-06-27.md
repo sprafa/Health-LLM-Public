@@ -1,3 +1,13 @@
+---
+title: Total Colonoscopy 2022-06-27
+type: summary
+created: 2022-06-27
+updated: 2026-04-06
+sources: []
+tags: [endoscopy, 2022]
+confidence: medical assessment
+---
+
 # Colonoscopia Total — 27-06-2022
 
 **Data Exame:** 27/06/2022

@@ -1,3 +1,13 @@
+---
+title: Lab Results GS 2024-06-14
+type: summary
+created: 2024-06-14
+updated: 2026-04-06
+sources: []
+tags: [lab-results, 2024]
+confidence: medical assessment
+---
+
 # Resultados Laboratório A — 14/06/2024
 
 **Data de Colheita:** 14/06/2024

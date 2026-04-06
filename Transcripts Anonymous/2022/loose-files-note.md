@@ -1,3 +1,13 @@
+---
+title: 2022 Loose Files Note
+type: summary
+created: 2026-04-06
+updated: 2026-04-06
+sources: []
+tags: [duplicates, notes]
+confidence: not applicable
+---
+
 # Loose Files in Raw/2022/ — Notes
 
 | Source file | Status |

@@ -1,3 +1,13 @@
+---
+title: Exercise Stress Test ECG 2026-03-13
+type: summary
+created: 2026-03-13
+updated: 2026-04-06
+sources: []
+tags: [cardiology, stress-test, 2026]
+confidence: medical assessment
+---
+
 # Prova de Esforço — 13-03-2026
 
 **Data:** 13-03-2026

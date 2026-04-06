@@ -1,3 +1,13 @@
+---
+title: Health Diary Fatigue Dystonia 2024-2026
+type: summary
+created: 2024-01-01
+updated: 2026-04-06
+sources: []
+tags: [symptoms, log, 2026]
+confidence: medical assessment
+---
+
 # Diário de Saúde — Fadiga to Distonia — 2024-2026
 
 **Started:** 11.03.2026

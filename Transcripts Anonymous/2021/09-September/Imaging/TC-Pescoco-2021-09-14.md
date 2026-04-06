@@ -1,3 +1,13 @@
+---
+title: CT Neck 2021-09-14
+type: summary
+created: 2021-09-14
+updated: 2026-04-06
+sources: []
+tags: [imaging, 2021]
+confidence: medical assessment
+---
+
 # TC Pescoço — 14-09-2021
 
 **Data Exame:** 14/09/2021

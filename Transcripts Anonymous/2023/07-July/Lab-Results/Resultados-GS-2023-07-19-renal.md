@@ -1,3 +1,13 @@
+---
+title: Lab Results GS 2023-07-19 Renal
+type: summary
+created: 2023-07-19
+updated: 2026-04-06
+sources: []
+tags: [lab-results, 2023]
+confidence: medical assessment
+---
+
 # Resultados Laboratório A — 19/07/2023
 
 **Data de Colheita:** 19/07/2023

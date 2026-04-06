@@ -1,3 +1,13 @@
+---
+title: GP Letter — Psychiatrist A 2019-11-06
+type: summary
+created: 2019-11-06
+updated: 2026-04-06
+sources: []
+tags: [psychiatry, letter, 2019]
+confidence: medical assessment
+---
+
 # GP Letter — Psychiatrist A (London) — 06-11-2019
 
 **Clinic Date:** 6 November 2019

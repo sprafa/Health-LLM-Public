@@ -1,3 +1,13 @@
+---
+title: MRI Brain 2022-06-29
+type: summary
+created: 2022-06-29
+updated: 2026-04-06
+sources: []
+tags: [imaging, 2022]
+confidence: medical assessment
+---
+
 # RM Crânio-Encefálica (Repetição) — 29-06-2022
 
 **Data Exame:** 29/06/2022

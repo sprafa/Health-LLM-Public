@@ -1,3 +1,13 @@
+---
+title: Lab Results GS 2021-08-26 CBC D-Dimer Fibrinogen
+type: summary
+created: 2021-08-26
+updated: 2026-04-06
+sources: []
+tags: [lab-results, 2021]
+confidence: medical assessment
+---
+
 # Resultados Laboratório A (Porto — Trindade) — 26-08-2021 (Hemograma + D-Dímero + Fibrinogénio)
 
 **Data de Colheita:** 26/08/2021

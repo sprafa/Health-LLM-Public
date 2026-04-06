@@ -1,3 +1,13 @@
+---
+title: Clinical Summary for ER 2026-03
+type: summary
+created: 2026-03-01
+updated: 2026-04-06
+sources: []
+tags: [psychiatry, 2026]
+confidence: medical assessment
+---
+
 # Resumo Clínico — Por Favor Leia Antes de Avaliar (2026)
 
 **Tipo:** Documento auto-preparado para apresentação em urgências

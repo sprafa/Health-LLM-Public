@@ -1,3 +1,13 @@
+---
+title: Lab Results CUF ER 2026-03-13
+type: summary
+created: 2026-03-13
+updated: 2026-04-06
+sources: []
+tags: [lab-results, 2026]
+confidence: medical assessment
+---
+
 # Resultados Hospital A (Porto) — Urgência — 13-03-2026
 
 **Data de Colheita:** 13/03/2026

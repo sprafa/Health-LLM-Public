@@ -1,3 +1,13 @@
+---
+title: Lab Results GS 2022-12-30 Lithium
+type: summary
+created: 2022-12-30
+updated: 2026-04-06
+sources: []
+tags: [lab-results, 2023]
+confidence: medical assessment
+---
+
 # Resultados Laboratório A — 30/12/2022
 
 **Data de Colheita:** 30/12/2022

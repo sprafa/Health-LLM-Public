@@ -1,3 +1,13 @@
+---
+title: CSV and Excel Duplicates Note
+type: summary
+created: 2026-04-06
+updated: 2026-04-06
+sources: []
+tags: [duplicates, notes]
+confidence: not applicable
+---
+
 # CSV and Excel Exports — 08-11-2021 (Duplicates)
 
 The following files are machine-exported versions of the lab results already transcribed from the corresponding PDFs. They contain identical data and the same PII.

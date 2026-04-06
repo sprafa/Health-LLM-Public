@@ -1,3 +1,12 @@
+---
+title: All Exams and Results
+type: exam
+created: 2021-08-01
+updated: 2026-04-06
+sources: []
+tags: [exams, results, master-list]
+confidence: objective
+---
 
 [Exams from 2021](Exams%20from%202021.md)
 

@@ -1,3 +1,13 @@
+---
+title: Exhaustive File Index
+type: summary
+created: 2026-04-06
+updated: 2026-04-06
+sources: []
+tags: [navigation, index]
+confidence: not applicable
+---
+
 # Exhaustive File Index
 
 Complete listing of every file in the public repository.

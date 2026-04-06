@@ -1,3 +1,13 @@
+---
+title: Lab Results GS 2025-06-13 Calcium PTH
+type: summary
+created: 2025-06-13
+updated: 2026-04-06
+sources: []
+tags: [lab-results, 2025]
+confidence: medical assessment
+---
+
 # Resultados Laboratório A — 13/06/2025
 
 **Data de Colheita:** 13/06/2025

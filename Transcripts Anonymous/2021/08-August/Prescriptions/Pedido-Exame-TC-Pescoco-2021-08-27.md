@@ -1,3 +1,13 @@
+---
+title: Prescription CT Neck 2021-08-27
+type: summary
+created: 2021-08-27
+updated: 2026-04-06
+sources: []
+tags: [prescriptions, 2021]
+confidence: medical assessment
+---
+
 # Pedido de Exame — TC Pescoço — 27-08-2021
 
 **Data:** 27 de agosto de 2021

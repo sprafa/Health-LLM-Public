@@ -1,3 +1,13 @@
+---
+title: GP Letter — Psychiatrist A 2019-03-08
+type: summary
+created: 2019-03-08
+updated: 2026-04-06
+sources: []
+tags: [psychiatry, letter, 2019]
+confidence: medical assessment
+---
+
 # GP Letter — Psychiatrist A (London) — 08-03-2019
 
 **Clinic Date:** 8 March 2019

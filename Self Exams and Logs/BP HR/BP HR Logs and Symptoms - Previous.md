@@ -1,3 +1,13 @@
+---
+title: BP HR Logs and Symptoms — Previous
+type: lab-tracking
+created: 2021-08-22
+updated: 2026-04-06
+sources: []
+tags: [vitals, blood-pressure, heart-rate]
+confidence: objective
+---
+
 Test -- Date 
 
 **22 August 2021 — CUF Porto ER:**

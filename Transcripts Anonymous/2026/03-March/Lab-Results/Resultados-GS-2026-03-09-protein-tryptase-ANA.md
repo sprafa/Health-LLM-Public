@@ -1,3 +1,13 @@
+---
+title: Lab Results GS 2026-03-09 Protein Tryptase ANA
+type: summary
+created: 2026-03-09
+updated: 2026-04-06
+sources: []
+tags: [lab-results, 2026]
+confidence: medical assessment
+---
+
 # Resultados Laboratório A (Guimarães) — 09-03-2026 (Electroforese, Triptase, ANA)
 
 **Data de Colheita:** 09/03/2026

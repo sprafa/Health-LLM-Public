@@ -1,3 +1,13 @@
+---
+title: Lab Results Patologia Clinica 2021-08-20
+type: summary
+created: 2021-08-20
+updated: 2026-04-06
+sources: []
+tags: [lab-results, 2021]
+confidence: medical assessment
+---
+
 # Resultados Patologia Clínica — 20-08-2021
 
 **Paciente:** Patient

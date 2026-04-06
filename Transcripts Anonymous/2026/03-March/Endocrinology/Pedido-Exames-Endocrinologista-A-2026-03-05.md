@@ -1,3 +1,13 @@
+---
+title: Endocrinology Test Request 2026-03-05
+type: summary
+created: 2026-03-05
+updated: 2026-04-06
+sources: []
+tags: [endocrinology, prescriptions, 2026]
+confidence: medical assessment
+---
+
 # Pedido de Exames — Endocrinologista A (Porto) — 05-03-2026
 
 **Data:** 05/03/2026

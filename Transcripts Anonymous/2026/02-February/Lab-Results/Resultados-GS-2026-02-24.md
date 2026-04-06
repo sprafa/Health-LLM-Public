@@ -1,3 +1,13 @@
+---
+title: Lab Results GS 2026-02-24
+type: summary
+created: 2026-02-24
+updated: 2026-04-06
+sources: []
+tags: [lab-results, 2026]
+confidence: medical assessment
+---
+
 # Resultados Laboratório A (Guimarães) — 24-02-2026
 
 **Data de Colheita:** 24/02/2026

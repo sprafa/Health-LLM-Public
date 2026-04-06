@@ -1,3 +1,13 @@
+---
+title: Pathology Report IPATIMUP 2022-05-26
+type: summary
+created: 2022-05-26
+updated: 2026-04-06
+sources: []
+tags: [pathology, biopsy, 2022]
+confidence: medical assessment
+---
+
 # Relatório Anátomo-Patológico — 26-05-2022
 
 **Data da colheita:** 26-05-2022

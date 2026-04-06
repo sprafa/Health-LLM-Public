@@ -1,3 +1,13 @@
+---
+title: MRI Brain Spectroscopy AngioMR 2021-09-17
+type: summary
+created: 2021-09-17
+updated: 2026-04-06
+sources: []
+tags: [imaging, 2021]
+confidence: medical assessment
+---
+
 # RM Crânio-Encefálica com Espectroscopia e Angio-RM Cerebral — 17-09-2021
 
 **Data Exame:** 17/09/2021

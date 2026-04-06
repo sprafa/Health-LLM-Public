@@ -1,3 +1,13 @@
+---
+title: Lab Results GS 2021-04-20 Full Panel
+type: summary
+created: 2021-04-20
+updated: 2026-04-06
+sources: []
+tags: [lab-results, 2021]
+confidence: medical assessment
+---
+
 # Resultados Laboratório A (Porto — Trindade) — 20-04-2021 (Painel Completo)
 
 **Data de Colheita:** 20/04/2021

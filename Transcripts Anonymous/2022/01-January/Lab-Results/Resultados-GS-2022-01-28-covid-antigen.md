@@ -1,3 +1,13 @@
+---
+title: Lab Results GS 2022-01-28 COVID Antigen
+type: summary
+created: 2022-01-28
+updated: 2026-04-06
+sources: []
+tags: [lab-results, 2022]
+confidence: medical assessment
+---
+
 # Resultados Laboratório A (Porto — D. João I) — 28-01-2022 (Antigénio SARS-CoV-2)
 
 **Data de Colheita:** 28/01/2022

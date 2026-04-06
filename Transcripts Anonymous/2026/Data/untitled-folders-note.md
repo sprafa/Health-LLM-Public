@@ -1,3 +1,13 @@
+---
+title: Untitled Folders Note
+type: summary
+created: 2026-04-06
+updated: 2026-04-06
+sources: []
+tags: [duplicates, notes]
+confidence: not applicable
+---
+
 # Untitled Folders — Contents Note
 
 ## Raw/untitled folder/ (10 PNGs)

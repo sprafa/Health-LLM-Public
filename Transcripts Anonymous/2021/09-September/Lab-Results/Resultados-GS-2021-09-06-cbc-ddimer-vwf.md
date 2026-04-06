@@ -1,3 +1,13 @@
+---
+title: Lab Results GS 2021-09-06 CBC D-Dimer vWF
+type: summary
+created: 2021-09-06
+updated: 2026-04-06
+sources: []
+tags: [lab-results, 2021]
+confidence: medical assessment
+---
+
 # Resultados Laboratório A (Porto — Trindade) — 06-09-2021 (Hemograma + D-Dímero + von Willebrand)
 
 **Data de Colheita:** 06/09/2021

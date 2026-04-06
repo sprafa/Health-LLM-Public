@@ -1,3 +1,13 @@
+---
+title: Sleep Polygraphy Report 2022-01-20
+type: summary
+created: 2022-01-20
+updated: 2026-04-06
+sources: []
+tags: [sleep-study, 2022]
+confidence: medical assessment
+---
+
 # Registo Poligráfico do Sono Noturno — 20-01-2022
 
 **Data Exame:** 20 de Janeiro de 2022 (23h32min — 08h20min)

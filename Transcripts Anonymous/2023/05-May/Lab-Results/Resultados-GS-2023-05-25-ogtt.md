@@ -1,3 +1,13 @@
+---
+title: Lab Results GS 2023-05-25 OGTT
+type: summary
+created: 2023-05-25
+updated: 2026-04-06
+sources: []
+tags: [lab-results, 2023]
+confidence: medical assessment
+---
+
 # Resultados Laboratório A — 25/05/2023
 
 **Data de Colheita:** 25/05/2023

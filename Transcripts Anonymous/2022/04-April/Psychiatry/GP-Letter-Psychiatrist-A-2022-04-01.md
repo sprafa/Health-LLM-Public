@@ -1,3 +1,13 @@
+---
+title: GP Letter — Psychiatrist A 2022-04-01
+type: summary
+created: 2022-04-01
+updated: 2026-04-06
+sources: []
+tags: [psychiatry, letter, 2022]
+confidence: medical assessment
+---
+
 # GP Letter — Psychiatrist A (London) — 01-04-2022
 
 **Clinic Date:** 1 April 2022

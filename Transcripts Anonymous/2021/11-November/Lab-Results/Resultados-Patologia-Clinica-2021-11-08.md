@@ -1,3 +1,13 @@
+---
+title: Lab Results Patologia Clinica 2021-11-08
+type: summary
+created: 2021-11-08
+updated: 2026-04-06
+sources: []
+tags: [lab-results, 2021]
+confidence: medical assessment
+---
+
 # Resultados Patologia Clínica — 08-11-2021
 
 **Data de Colheita:** 08-11-2021

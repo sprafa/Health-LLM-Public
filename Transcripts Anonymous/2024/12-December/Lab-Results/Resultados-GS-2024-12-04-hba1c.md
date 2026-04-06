@@ -1,3 +1,13 @@
+---
+title: Lab Results GS 2024-12-04 HbA1c
+type: summary
+created: 2024-12-04
+updated: 2026-04-06
+sources: []
+tags: [lab-results, 2024]
+confidence: medical assessment
+---
+
 # Resultados Laboratório A — 04/12/2024
 
 **Data de Colheita:** 04/12/2024
