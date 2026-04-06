@@ -14,16 +14,10 @@ An Obsidian vault documenting the medical history of a patient. Designed to be r
 
 Verbatim transcriptions of medical records (2018–2026), in original language (mostly Portuguese) with English translation notes. All personal identifiers replaced with role-based codes.
 
-Full listing: [Transcripts Anonymous/index.md](Transcripts%20Anonymous/index.md)
+Full listing: [[index of anonymised transcripts of medical records]]
 
 ### 2018
 - [CT-Brain-2018-02-27.md](Transcripts%20Anonymous/2018/02-February/Imaging/CT-Brain-2018-02-27.md) — Brain CT scan
-
-### 2019–2020 — Psychiatry
-- [GP-Letter-Psychiatrist-A-2019-03-08.md](Transcripts%20Anonymous/2019/03-March/Psychiatry/GP-Letter-Psychiatrist-A-2019-03-08.md) — Initial GP referral
-- [GP-Letter-Psychiatrist-A-2019-03-13.md](Transcripts%20Anonymous/2019/03-March/Psychiatry/GP-Letter-Psychiatrist-A-2019-03-13.md) — Follow-up letter
-- [GP-Letter-Psychiatrist-A-2019-11-06.md](Transcripts%20Anonymous/2019/11-November/Psychiatry/GP-Letter-Psychiatrist-A-2019-11-06.md) — November letter
-- [GP-Letter-Psychiatrist-A-2020-09-18.md](Transcripts%20Anonymous/2020/09-September/Psychiatry/GP-Letter-Psychiatrist-A-2020-09-18.md) — Discharge letter
 
 ### 2021 — Post-vaccine onset (27 files)
 - **Discharge Notes:** 5 ER discharges (Aug–Nov)
@@ -70,7 +64,6 @@ Full listing: [Transcripts Anonymous/index.md](Transcripts%20Anonymous/index.md)
 
 Cross-referenced Obsidian navigation pages.
 
-- [Yearly log.md](Yearly%20log.md) — Year-by-year timeline
 - [Patient Self Reports.md](Sublinks/Patient%20Self%20Reports.md) — Patient-written accounts
 - [Exams to Do and To Be Done.md](Exams%20to%20Do%20and%20To%20Be%20Done.md) — Pending investigations
 - [Questions to answered.md](Questions%20to%20answered.md) — Open diagnostic questions
