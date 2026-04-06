@@ -81,3 +81,6 @@ Cross-referenced Obsidian navigation pages.
 - [Exams from 2024.md](Sublinks/Exams/Exams%20from%202024.md)
 - [Exams from 2025.md](Sublinks/Exams/Exams%20from%202025.md)
 - [Exams from 2026.md](Sublinks/Exams/Exams%20from%202026.md)
+- [[exhaustiveindex]]
+
+
